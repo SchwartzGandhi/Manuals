@@ -1,0 +1,353 @@
+[
+  {
+    "count": 1,
+    "name": "Mario",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kirby",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Peach",
+    "category": [
+      "Fighter",
+      "Princess"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Zelda",
+    "category": [
+      "Fighter",
+      "Princess",
+      "Zelda/Sheik"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pit",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Donkey Kong",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Diddy Kong",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fox",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lucas",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ness",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pokémon Trainer",
+    "category": [
+      "Fighter",
+      "Red"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Squirtle",
+    "category": [
+      "Fighter",
+      "Red"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ivysaur",
+    "category": [
+      "Fighter",
+      "Red"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Charizard",
+    "category": [
+      "Fighter",
+      "Red"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Marth",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Meta Knight",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ike",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Link",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Yoshi",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Zero Suit Samus",
+    "category": [
+      "Fighter",
+      "Samus Aran"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pikachu",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Falco",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Samus",
+    "category": [
+      "Fighter",
+      "Samus Aran"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Captain Falcon",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Olimar",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ice Climbers",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lucario",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Snake",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "R.O.B.",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Luigi",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "King Dedede",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bowser",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wario",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ganondorf",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sonic",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Toon Link",
+    "category": [
+      "Fighter",
+      "Extra"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jigglypuff",
+    "category": [
+      "Fighter",
+      "Extra"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wolf",
+    "category": [
+      "Fighter",
+      "Extra"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sheik",
+    "category": [
+      "Fighter",
+      "Zelda/Sheik"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mr. Game & Watch",
+    "category": [
+      "Fighter"
+    ],
+    "progression": true
+  },
+  {
+    "count": "40",
+    "name": "Sticker",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "83",
+    "name": "Trophy",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "CD",
+    "category": [],
+    "filler": true
+  }
+]

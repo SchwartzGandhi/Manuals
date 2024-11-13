@@ -1,0 +1,14 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "SuperSmashBrosBrawlTheSubspaceEmissary",
+  "creator": "SchwartzGandhi",
+  "filler_item_name": "Filler",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Fighter"
+      ],
+      "random": 4
+    }
+  ]
+}

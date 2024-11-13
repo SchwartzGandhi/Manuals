@@ -1,0 +1,207 @@
+{
+  "Midair Stadium": {
+    "starting": true,
+    "connects_to": [
+      "Skyworld",
+      "Sea of Clouds",
+      "The Jungle",
+      "The Plain",
+      "The Lake",
+      "The Ruined Zoo",
+      "The Battlefield Fortress",
+      "The Forest",
+      "The Research Facility I",
+      "The Lake Shore",
+      "The Path to the Ruins",
+      "The Cave",
+      "The Ruins",
+      "The Wilds I",
+      "The Ruined Hall",
+      "The Wilds II",
+      "The Swamp",
+      "The Research Facility II",
+      "Outside the Ancient Ruins",
+      "The Glacial Peak",
+      "The Canyon",
+      "Battleship Halberd Interior",
+      "Battleship Halberd Exterior",
+      "Battleship Halberd Bridge",
+      "The Subspace Bomb Factory I",
+      "The Subspace Bomb Factory II",
+      "Entrance to Subspace",
+      "Subspace I",
+      "Subspace II",
+      "The Great Maze NW"
+    ],
+    "requires": "|Mario| OR |Kirby|"
+  },
+  "Skyworld": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Pit|"
+  },
+  "Sea of Clouds": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Kirby| AND |@Princess|"
+  },
+  "The Jungle": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Donkey Kong| AND |Diddy Kong|"
+  },
+  "The Plain": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Pit| AND |Mario|"
+  },
+  "The Lake": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Diddy Kong| and |Fox|"
+  },
+  "The Ruined Zoo": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Lucas|"
+  },
+  "The Battlefield Fortress": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Marth|"
+  },
+  "The Forest": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Link| AND |Yoshi|"
+  },
+  "The Research Facility I": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "{Check_Facility_1_Requirements()}"
+  },
+  "The Lake Shore": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "{Check_Lake_Shore_Requirements()}"
+  },
+  "The Path to the Ruins": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "{Check_Ruins_Requirement()}"
+  },
+  "The Cave": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Pit| AND |Mario| AND |Kirby| AND |Link| AND |Yoshi|"
+  },
+  "The Ruins": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "{Check_Ruins_Requirement()}"
+  },
+  "The Wilds I": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Marth| AND |Meta Knight| AND |Ike|"
+  },
+  "The Ruined Hall": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "{Check_Ruins_Requirement()}"
+  },
+  "The Wilds II": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Pit| AND |Mario| AND |Kirby| AND |Link| AND |Yoshi|"
+  },
+  "The Swamp": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Diddy Kong| AND |Fox|"
+  },
+  "The Research Facility II": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "{Check_Facility_2_Requirements()}"
+  },
+  "Outside the Ancient Ruins": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Captain Falcon| AND |Olimar|"
+  },
+  "The Glacial Peak": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Meta Knight| AND |Ice Climbers|"
+  },
+  "The Canyon": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Pit| AND |Mario| AND |Kirby| AND |Link| AND |Yoshi|"
+  },
+  "Battleship Halberd Interior": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Snake|"
+  },
+  "Battleship Halberd Exterior": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "{Check_Halberd_Exterior_Requirements()}"
+  },
+  "Battleship Halberd Bridge": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "{Check_Halberd_Bridge_Requirements()}"
+  },
+  "The Subspace Bomb Factory I": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "{Check_Bomb_Factory_Requirements()}"
+  },
+  "The Subspace Bomb Factory II": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Donkey Kong| AND |Diddy Kong| AND |Captain Falcon| AND |Olimar|"
+  },
+  "Entrance to Subspace": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Captain Falcon| AND |Donkey Kong| AND |Diddy Kong| AND |Fox| AND |Falco| AND |Ice Climbers| AND |Marth| AND |Ike| AND |Kirby| AND |Link| AND |Lucario| AND |Lucas| AND |Mario| AND |Meta Knight| AND |Mr. Game & Watch| AND |Olimar| AND |Peach| AND |@Zelda/Sheik| AND |Pikachu| AND |Pit| AND |@Red| AND |R.O.B.| AND |@Samus Aran| AND |Snake| AND |Yoshi|"
+  },
+  "Subspace I": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|King Dedede| AND |Luigi| AND |Ness|"
+  },
+  "Subspace II": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "|Kirby|"
+  },
+  "The Great Maze NW": {
+    "connects_to": [
+      "The Great Maze NE"
+    ],
+    "requires": "{Check_Great_Maze_Requirements()}"
+  },
+  "The Great Maze NE": {
+    "connects_to": [
+      "The Great Maze SE"
+    ],
+    "requires": []
+  },
+  "The Great Maze SE": {
+    "connects_to": [
+      "The Great Maze SW"
+    ],
+    "requires": []
+  },
+  "The Great Maze SW": {
+    "connects_to": [
+      "The Great Maze NW"
+    ],
+    "requires": []
+  }
+}

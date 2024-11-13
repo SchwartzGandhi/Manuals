@@ -1,0 +1,1647 @@
+[
+  {
+    "name": "Midair Stadium - Stadium Brawl",
+    "region": "Midair Stadium",
+    "category": [
+      "Battle",
+      "Miniboss"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midair Stadium - Subspace Hoarde",
+    "region": "Midair Stadium",
+    "category": [
+      "Battle",
+      "Hoarde"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Midair Stadium - Petey Piranha",
+    "region": "Midair Stadium",
+    "category": [
+      "Boss"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Kirby)",
+    "region": "Midair Stadium",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Rescued Princess)",
+    "region": "Midair Stadium",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Skyworld - Step 2 Golden Box",
+    "region": "Skyworld",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Pit)",
+    "region": "Skyworld",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Mario)",
+    "region": "Skyworld",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Jungle - Step 1 Golden Box",
+    "region": "The Jungle",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Jungle - Step 6 Golden Box",
+    "region": "The Jungle",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Jungle - Step 2 Freestanding Trophy",
+    "region": "The Jungle",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Jungle - Step 4 Freestanding Trophy",
+    "region": "The Jungle",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Diddy Kong)",
+    "region": "The Jungle",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Plain - Step 1 Golden Box",
+    "region": "The Plain",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Plain - Step 2 Golden Box",
+    "region": "The Plain",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Lake - Rayquaza",
+    "region": "The Lake",
+    "category": [
+      "Boss"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Lake - Step 2 Golden Box",
+    "region": "The Lake",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Lake - Step 11 Golden Box",
+    "region": "The Lake",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Lake - Step 10 Golden Box",
+    "region": "The Lake",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Lake - Dark Bowser Brawl",
+    "region": "The Lake",
+    "category": [
+      "Battle",
+      "Miniboss"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Fox)",
+    "region": "The Lake",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Ruined Zoo - Porky",
+    "region": "The Ruined Zoo",
+    "category": [
+      "Boss"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Ruined Zoo - Step 4 Golden Box",
+    "region": "The Ruined Zoo",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Ruined Zoo - Step 6 Golden Box",
+    "region": "The Ruined Zoo",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Lucas)",
+    "region": "The Ruined Zoo",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Pokémon Trainer)",
+    "region": "The Ruined Zoo",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Battlefield Fortress - Step 2 Golden Box",
+    "region": "The Battlefield Fortress",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Battlefield Fortress - Step 7 Golden Box",
+    "region": "The Battlefield Fortress",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Battlefield Fortress - Step 4 Freestanding Trophy",
+    "region": "The Battlefield Fortress",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Battlefield Fortress - Subspace Hoarde",
+    "region": "The Battlefield Fortress",
+    "category": [
+      "Battle",
+      "Hoarde"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Marth)",
+    "region": "The Battlefield Fortress",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Meta Knight)",
+    "region": "The Battlefield Fortress",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Ike)",
+    "region": "The Battlefield Fortress",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Forest",
+    "name": "The Forest - Step 2 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Forest",
+    "name": "The Forest - Step 3 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Forest - Toon Link Brawl",
+    "region": "The Forest",
+    "category": [
+      "Battle",
+      "Secret Battle"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Link)",
+    "region": "The Forest",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Yoshi)",
+    "region": "The Forest",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Toon Link)",
+    "region": "The Forest",
+    "category": [
+      "Newcomer",
+      "Secret Battle"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Research Facility I",
+    "name": "The Research Facility I - Step 2 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Research Facility I",
+    "name": "The Research Facility I - Step 5 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Zero Suit Samus)",
+    "region": "The Research Facility I",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Pikachu)",
+    "region": "The Research Facility I",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Lake Shore - Dark Princess Brawl",
+    "region": "The Lake Shore",
+    "category": [
+      "Battle",
+      "Miniboss"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Lake Shore - Team Brawl",
+    "region": "The Lake Shore",
+    "category": [
+      "Battle",
+      "Miniboss"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Lake Shore",
+    "name": "The Lake Shore - Step 4 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Lake Shore",
+    "name": "The Lake Shore - Step 6 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Lake Shore",
+    "name": "The Lake Shore - Step 7 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Lake Shore",
+    "name": "The Lake Shore - Step 8 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Path to the Ruins",
+    "name": "The Path to the Ruins - Step 1 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Path to the Ruins",
+    "name": "The Path to the Ruins - Step 3 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Path to the Ruins",
+    "name": "The Path to the Ruins - Step 2 Freestanding Trophy Left",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Path to the Ruins",
+    "name": "The Path to the Ruins - Step 2 Freestanding Trophy Top",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Path to the Ruins",
+    "name": "The Path to the Ruins - Step 2 Freestanding Trophy Upright",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Path to the Ruins",
+    "name": "The Path to the Ruins - Step 2 Freestanding Trophy Far Right",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Path to the Ruins - Wario Brawl",
+    "region": "The Path to the Ruins",
+    "category": [
+      "Battle",
+      "Miniboss"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Cave",
+    "name": "The Cave - Step 1 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Cave",
+    "name": "The Cave - Step 2 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Cave",
+    "name": "The Cave - Step 5 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Ruins",
+    "name": "The Ruins - Step 1 Freestanding Trophy",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Ruins",
+    "name": "The Ruins - Step 2 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Ruins",
+    "name": "The Ruins - Step 5 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Ruins - Charizard Brawl",
+    "region": "The Ruins",
+    "category": [
+      "Battle",
+      "Miniboss"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Ruins - Wolf Brawl",
+    "region": "The Ruins",
+    "category": [
+      "Battle",
+      "Secret Battle"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Wolf)",
+    "region": "The Ruins",
+    "category": [
+      "Newcomer",
+      "Secret Battle"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Wilds I",
+    "name": "The Wilds I - Step 2 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Wilds I",
+    "name": "The Wilds I - Step 1 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Wilds I",
+    "name": "The Wilds I - Step 4 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Wilds I - Galleom I",
+    "region": "The Wilds I",
+    "category": [
+      "Boss"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Ruined Hall - Galleom II",
+    "region": "The Ruined Hall",
+    "category": [
+      "Boss"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Wilds II",
+    "name": "The Wilds II - Step 2 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Wilds II",
+    "name": "The Wilds II - Step 3 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Wilds II",
+    "name": "The Wilds II - Step 1 Freestanding Trophy",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Swamp",
+    "name": "The Swamp - Step 1 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Swamp",
+    "name": "The Swamp - Step 3 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Swamp",
+    "name": "The Swamp - Step 6 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Swamp",
+    "name": "The Swamp - Step 7 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Swamp - Giant Dark Diddy Kong Brawl",
+    "region": "The Swamp",
+    "category": [
+      "Battle",
+      "Miniboss"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Swamp - Jigglypuff Brawl",
+    "region": "The Swamp",
+    "category": [
+      "Battle",
+      "Secret Battle"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Falco)",
+    "region": "The Swamp",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Jigglypuff)",
+    "region": "The Swamp",
+    "category": [
+      "Newcomer",
+      "Secret Battle"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Research Facility II",
+    "name": "The Research Facility II - Step 2 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Research Facility II",
+    "name": "The Research Facility II - Step 6 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Research Facility II",
+    "name": "The Research Facility II - Step 12 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Research Facility II - Dark Samus Duo Brawl",
+    "region": "The Research Facility II",
+    "category": [
+      "Battle",
+      "Miniboss"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Research Facility II",
+    "name": "The Research Facility II - Step 4 Freestanding Trophy",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Research Facility II - Ridley",
+    "region": "The Research Facility II",
+    "category": [
+      "Boss"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Samus)",
+    "region": "The Research Facility II",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Outside the Ancient Ruins",
+    "name": "Outside the Ancient Ruins - Step 3 Golden Box Left",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Outside the Ancient Ruins",
+    "name": "Outside the Ancient Ruins - Step 3 Golden Box Right",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Outside the Ancient Ruins",
+    "name": "Outside the Ancient Ruins - Step 2 Freestanding Trophy",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Outside the Ancient Ruins",
+    "name": "Outside the Ancient Ruins - Step 3 Freestanding Trophy",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Outside the Ancient Ruins",
+    "name": "Outside the Ancient Ruins - Subspace Hoarde",
+    "category": [
+      "Battle",
+      "Hoarde"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Donkey Kong)",
+    "region": "Outside the Ancient Ruins",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Captain Falcon)",
+    "region": "Outside the Ancient Ruins",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Olimar)",
+    "region": "Outside the Ancient Ruins",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Glacial Peak",
+    "name": "The Glacial Peak - Step 2 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Glacial Peak",
+    "name": "The Glacial Peak - Step 4 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Glacial Peak",
+    "name": "The Glacial Peak - Step 5 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Galcial Peak - Top of the Mountain Brawl",
+    "region": "The Glacial Peak",
+    "category": [
+      "Battle",
+      "Miniboss"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Ice Climbers)",
+    "region": "The Glacial Peak",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Lucario)",
+    "region": "The Glacial Peak",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Canyon - Subspcae Hoarde",
+    "region": "The Canyon",
+    "category": [
+      "Battle",
+      "Hoarde"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Battleship Halberd Interior",
+    "name": "Battleship Halberd Interior - Step 3 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Battleship Halberd Interior",
+    "name": "Battleship Halberd Interior - Step 5 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Battleship Halberd Interior",
+    "name": "Battleship Halberd Interior - Step 4 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Battleship Halberd Interior",
+    "name": "Battleship Halberd Interior - Step 8 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Battleship Halberd Interior - Dark Princess Duo Brawl",
+    "region": "Battleship Halberd Interior",
+    "category": [
+      "Battle",
+      "Miniboss"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Snake)",
+    "region": "Battleship Halberd Interior",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Battleship Halberd Exterior",
+    "name": "Battleship Halberd Exterior - Step 2 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Battleship Halberd Exterior",
+    "name": "Battleship Halberd Exterior - Step 5 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Captured Princess)",
+    "region": "Battleship Halberd Exterior",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Battleship Halberd Bridge - Duon",
+    "region": "Battleship Halberd Bridge",
+    "category": [
+      "Boss"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Mr. Game & Watch)",
+    "region": "Battleship Halberd Bridge",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Subspace Bomb Factory I",
+    "name": "The Subspace Bomb Factory I - Step 2 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Subspace Bomb Factory I",
+    "name": "The Subspace Bomb Factory I - Step 4 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Subspace Bomb Factory II",
+    "name": "The Subspace Bomb Factory II - Step 2 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Subspace Bomb Factory II",
+    "name": "The Subspace Bomb Factory II - Step 4 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Subspace Bomb Factory II",
+    "name": "The Subspace Bomb Factory II - Step 5 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Subspace Bomb Factory II",
+    "name": "The Subspace Bomb Factory II - Subspace Hoarde",
+    "category": [
+      "Battle",
+      "Hoarde"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Subspace Bomb Factory II",
+    "name": "The Subspace Bomb Factory II - Step 8 Freestanding Trophy",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Subspace Bomb Factory II - Meta Ridley",
+    "region": "The Subspace Bomb Factory II",
+    "category": [
+      "Boss"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (R.O.B.)",
+    "region": "The Subspace Bomb Factory II",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Entrance to Subspace",
+    "name": "Entrance to Subspace - Step 1 Freestanding Trophy",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Subspace I",
+    "name": "Subspace I - Step 3 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Step 1 Samus Trophy",
+    "region": "Subspace I",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Step 3 Pit Trophy",
+    "region": "Subspace I",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Step 3 Falco Trophy",
+    "region": "Subspace I",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Step 2 Lucas Trophy",
+    "region": "Subspace I",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Step 4 Ike Trophy",
+    "region": "Subspace I",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Step 4 Donkey Kong Trophy",
+    "region": "Subspace I",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Step 5 Pokémon Trainer Trophy",
+    "region": "Subspace I",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Step 5 Pikachu Trophy",
+    "region": "Subspace I",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Step 4 Marth Trophy",
+    "region": "Subspace I",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Step 6 Olimar Trophy",
+    "region": "Subspace I",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Step 6 Fox Trophy",
+    "region": "Subspace I",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Step 7 Mr. Game & Watch Trophy",
+    "region": "Subspace I",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Step 8 Diddy Kong Trophy",
+    "region": "Subspace I",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Step 8 Captain Falcon Trophy",
+    "region": "Subspace I",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Step 9 Mario Trophy",
+    "region": "Subspace I",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Bowser Brawl",
+    "region": "Subspace I",
+    "category": [
+      "Battle",
+      "Miniboss"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Luigi)",
+    "region": "Subspace I",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Ness)",
+    "region": "Subspace I",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (King Dedede)",
+    "region": "Subspace I",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Newcomer (Bowser)",
+    "region": "Subspace I",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Subspace II",
+    "name": "Subspace II - Step 1 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Subspace II",
+    "name": "Subspace II - Step 3 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace II - Step 1 Peach Trophy",
+    "region": "Subspace II",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace II - Step 1 Zelda Trophy",
+    "region": "Subspace II",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace II - Step 1 Meta Knight Trophy",
+    "region": "Subspace II",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace II - Step 2 Link Trophy",
+    "region": "Subspace II",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace II - Step 2 Yoshi Trophy",
+    "region": "Subspace II",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace II - Step 2 Lucario Trophy",
+    "region": "Subspace II",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace II - Step 2 R.O.B. Trophy",
+    "region": "Subspace II",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace II - Step 3 Ice Climbers Trophy",
+    "region": "Subspace II",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace II - Step 3 Snake Trophy",
+    "region": "Subspace II",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace II - Step 3 Wario Trophy",
+    "region": "Subspace II",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": ["|Wario|"]
+  },
+  {
+    "name": "Newcomer (Ganondorf)",
+    "region": "Subspace II",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": "{Check_Ganondorf_Requirements()}"
+  },
+  {
+    "name": "Newcomer (Wario)",
+    "region": "Subspace II",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Great Maze NW",
+    "name": "The Great Maze - Golden Box (Skyworld Cache)",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Great Maze NW",
+    "name": "The Great Maze - Golden Box (Sea of CLouds)",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Great Maze NW",
+    "name": "The Great Maze - Golden Box (The Forest Dark World))",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Great Maze NW",
+    "name": "The Great Maze - Golden Box (The Plain)",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Great Maze NE",
+    "name": "The Great Maze - Golden Box (Battleship Halberd Interior)",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Great Maze NE",
+    "name": "The Great Maze - Golden Box (The Ruined Zoo)",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Great Maze NE",
+    "name": "The Great Maze - Golden Box (The Research Facility Bottom Right)",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Great Maze NE",
+    "name": "The Great Maze - Golden Box (The Research Facility Top Right)",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Great Maze SE",
+    "name": "The Great Maze - Golden Box (The Path to the Ruins Fire Cave)",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Great Maze SE",
+    "name": "The Great Maze - Golden Box (The Swamp Sping Platform)",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Great Maze SE",
+    "name": "The Great Maze - Golden Box (The Swamp Cache)",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Great Maze SE",
+    "name": "The Great Maze - Freestanding Trophy (The Swamp Cache)",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Great Maze SW",
+    "name": "The Great Maze - Golden Box (The Path to the Ruins Windstorm)",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Great Maze SW",
+    "name": "The Great Maze - Freestanding Trophy (The Ruins)",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tabuu",
+    "region": "The Great Maze SW",
+    "victory": true,
+    "category": [
+      "Final Boss"
+    ],
+    "requires": "{Check_Tabuu_Requirements()}"
+  },
+  {
+    "name": "Newcomer (Sonic)",
+    "region": "The Great Maze SW",
+    "category": [
+      "Newcomer"
+    ],
+    "requires": []
+  }
+]
