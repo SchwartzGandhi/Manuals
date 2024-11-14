@@ -1469,7 +1469,7 @@
       "Freestanding",
       "Fighter Trophy"
     ],
-    "requires": ["|Wario|"]
+    "requires": "|Wario|"
   },
   {
     "name": "Newcomer (Ganondorf)",

@@ -88,7 +88,7 @@
   "The Path to the Ruins": {
     "starting": true,
     "connects_to": [],
-    "requires": "{Check_Ruins_Requirement()}"
+    "requires": "{Check_Ruins_Requirements()}"
   },
   "The Cave": {
     "starting": true,
@@ -98,7 +98,7 @@
   "The Ruins": {
     "starting": true,
     "connects_to": [],
-    "requires": "{Check_Ruins_Requirement()}"
+    "requires": "{Check_Ruins_Requirements()}"
   },
   "The Wilds I": {
     "starting": true,
@@ -108,7 +108,7 @@
   "The Ruined Hall": {
     "starting": true,
     "connects_to": [],
-    "requires": "{Check_Ruins_Requirement()}"
+    "requires": "{Check_Ruins_Requirements()}"
   },
   "The Wilds II": {
     "starting": true,

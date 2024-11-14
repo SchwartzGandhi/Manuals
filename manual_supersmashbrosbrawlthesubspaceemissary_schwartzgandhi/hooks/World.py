@@ -72,6 +72,12 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
     for i in range(1, trophies_to_remove):
         itemNamesToRemove.append("Boss Trophy")
 
+    # Remove The Trainer's Pokemon if Solo Trainer is enabled.
+        if get_option_value(multiworld, player, "trainer_behaviour") == 0:
+            itemNamesToRemove.append("Squirtle")
+            itemNamesToRemove.append("Ivysaur")
+            itemNamesToRemove.append("Charizard")
+
     # Remove characters that are in the Extra category from the pool if secret_character_shuffle is not on.
     if not is_option_enabled(multiworld, player, "secret_character_shuffle"):
         itemNamesToRemove.append("Toon Link")
@@ -82,7 +88,6 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
         for i in item_pool:
             if i.name == itemName:
                 item_pool.remove(i)
-        
 
     return item_pool
 
@@ -134,21 +139,22 @@ def before_generate_basic(world: World, multiworld: MultiWorld, player: int) -> 
     # Check if Boss Hunt is enabled
     if get_option_value(multiworld, player, "tabuu_requirements") != (2 or 3):
         return
-    
+
     boss_trophies = [
-        item.name for item in multiworld.item_pool 
-            if "Boss Trophy" in world.item_name_to_item[item.name].get("category", [])
+        item for item in multiworld.itempool
+            if "Boss Trophy" in world.item_name_to_item.values()
     ]
-    boss_names = next(
-        iter([
-            name for name, location in world.location_name_to_location.items()
-                if "Boss" in location.get("category", [])
-        ])
-    )
-    boss_locations = multiworld.get_location(boss_names, player)
+    #boss_names = next(
+    #    iter([
+    #        name for name, location in world.location_name_to_location.items()
+    #            if "Boss" in location.get("category", [])
+    #    ])
+    #)
+    boss_locations = [
+        location for location in multiworld.get_locations(player)
+    ]
     print(boss_trophies)
     print(boss_locations)
-
     for boss in boss_trophies:
         if len(boss_locations) == 0:
             break
