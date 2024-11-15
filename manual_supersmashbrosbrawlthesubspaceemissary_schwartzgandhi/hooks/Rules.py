@@ -88,7 +88,7 @@ def Check_Halberd_Bridge_Requirements(world: World, multiworld: MultiWorld, stat
         zelda = "|Progressive Zelda: 2|"
     else:
         raise OptionError("Option Zelda Behaviour is not set to a valid number.")
-    return f"|Snake| AND |Lucario| AND |Meta Knight| AND |Peach| AND {zelda} AND |Fox| AND |Falco|"
+    return f"|Snake| AND |Lucario| AND |Peach| AND {zelda} AND |Fox| AND |Falco|"
 
 def Check_Entrance_Requirements(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     zelda_requirement = get_option_value(multiworld, player, "zelda_behaviour")

@@ -99,7 +99,7 @@ class GreatMazeFighterPercentage(Range):
     display_name = "Great Maze Fighter Percentage"
     range_start = 0
     range_end = 100
-    default = 25
+    default = 50
 
 class TabuuRequirements(Choice):
     """Determines how you want Tabuu to be unlocked.
@@ -107,6 +107,7 @@ class TabuuRequirements(Choice):
     Percentage of Fighters: have a specified amount of fighters be required to unlock Tabuu.
     Boss Hunt: Defeat a specified amount of bosses in other levels to unlock Tabuu.
     Fighters and Bosses: A combination of the previous two.
+    DISCLAIMER: the last two options currently don't work.
     """
     display_name = "Tabuu Requirements"
     option_open = 0
@@ -123,7 +124,7 @@ class TabuuFighterPercentage(Range):
     display_name = "Tabuu Fighter Percentage"
     range_start = 0
     range_end = 100
-    default = 50
+    default = 80
 
 class TabuuBossHunt(Range):
     """Determines the amount of bosses that must be defeated to fight Tabuu.

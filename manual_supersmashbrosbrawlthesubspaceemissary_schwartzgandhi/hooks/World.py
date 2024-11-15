@@ -13,7 +13,6 @@ from ..Data import game_table, item_table, location_table, region_table
 
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value
-from worlds.generic.Rules import set_rule
 
 # calling logging.info("message") anywhere below in this file will output the message to both console and log file
 import logging
@@ -72,11 +71,34 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
     for i in range(1, trophies_to_remove):
         itemNamesToRemove.append("Boss Trophy")
 
-    # Remove The Trainer's Pokemon if Solo Trainer is enabled.
-        if get_option_value(multiworld, player, "trainer_behaviour") == 0:
-            itemNamesToRemove.append("Squirtle")
-            itemNamesToRemove.append("Ivysaur")
-            itemNamesToRemove.append("Charizard")
+    if get_option_value(multiworld, player, "trainer_behaviour") == 0:
+        itemNamesToRemove.append("Squirtle")
+        itemNamesToRemove.append("Ivysaur")
+        itemNamesToRemove.append("Charizard")
+        for i in range(4):
+            itemNamesToRemove.append("Progressive Pokémon Trainer")
+    elif get_option_value(multiworld, player, "trainer_behaviour") == 1:
+        for i in range(4):
+            itemNamesToRemove.append("Progressive Pokémon Trainer")
+    elif get_option_value(multiworld, player, "trainer_behaviour") == 2:
+        itemNamesToRemove.append("Pokémon Trainer")
+        itemNamesToRemove.append("Squirtle")
+        itemNamesToRemove.append("Ivysaur")
+        itemNamesToRemove.append("Charizard")
+
+    if get_option_value(multiworld, player, "samus_behaviour") == (0 or 1):
+        for i in range(2):
+            itemNamesToRemove.append("Progressive Samus")
+    elif get_option_value(multiworld, player, "samus_behaviour") == 2:
+        itemNamesToRemove.append("Samus")
+        itemNamesToRemove.append("Zero Suit Samus")
+
+    if get_option_value(multiworld, player, "zelda_behaviour") == (0 or 1):
+        for i in range(2):
+            itemNamesToRemove.append("Progressive Zelda")
+    elif get_option_value(multiworld, player, "zelda_behaviour") == 2:
+        itemNamesToRemove.append("Zelda")
+        itemNamesToRemove.append("Sheik")
 
     # Remove characters that are in the Extra category from the pool if secret_character_shuffle is not on.
     if not is_option_enabled(multiworld, player, "secret_character_shuffle"):
