@@ -83,7 +83,7 @@
   "The Lake Shore": {
     "starting": true,
     "connects_to": [],
-    "requires": "{Check_Lake_Shore_Requirements()}"
+    "requires": "(|Link| AND |Yoshi|) OR (|Mario| AND |Pit|)"
   },
   "The Path to the Ruins": {
     "starting": true,

@@ -447,16 +447,6 @@
   },
   {
     "region": "The Path to the Ruins",
-    "name": "The Path to the Ruins - Step 1 Golden Box",
-    "category": [
-      "Collectable",
-      "Box",
-      "Golden Box"
-    ],
-    "requires": []
-  },
-  {
-    "region": "The Path to the Ruins",
     "name": "The Path to the Ruins - Step 2 Freestanding Trophy Left",
     "category": [
       "Collectable",
@@ -492,6 +482,16 @@
       "Collectable",
       "Freestanding",
       "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Path to the Ruins",
+    "name": "The Path to the Ruins - Step 1 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
     ],
     "requires": []
   },
@@ -1211,16 +1211,6 @@
     "requires": []
   },
   {
-    "name": "Subspace I - Step 4 Donkey Kong Trophy",
-    "region": "Subspace I",
-    "category": [
-      "Collectable",
-      "Freestanding",
-      "Fighter Trophy"
-    ],
-    "requires": []
-  },
-  {
     "name": "Subspace I - Step 5 Pokémon Trainer Trophy",
     "region": "Subspace I",
     "category": [
@@ -1232,6 +1222,16 @@
   },
   {
     "name": "Subspace I - Step 5 Pikachu Trophy",
+    "region": "Subspace I",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Subspace I - Step 4 Donkey Kong Trophy",
     "region": "Subspace I",
     "category": [
       "Collectable",

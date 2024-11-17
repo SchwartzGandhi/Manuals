@@ -54,18 +54,6 @@ def Check_Bomb_Factory_Requirements(world: World, multiworld: MultiWorld, state:
         raise OptionError("Option Samus Behaviour is not set to a valid number.")
     return f"{samus} AND |Pikachu|"
 
-def Check_Lake_Shore_Requirements(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    zelda_requirement = get_option_value(multiworld, player, "zelda_behaviour")
-    if zelda_requirement == 0:
-        zelda = "|@Zelda/Sheik|"
-    elif zelda_requirement == 1:
-        zelda = "|Sheik|"
-    elif zelda_requirement == 2:
-        zelda = "|Progressive Zelda: 2|"
-    else:
-        raise OptionError("Option Zelda Behaviour is not set to a valid number.")
-    return f"(|Peach| AND |Link| AND |Yoshi|) OR ({zelda} AND |Mario| AND |Pit|)"
-
 def Check_Halberd_Exterior_Requirements(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     zelda_requirement = get_option_value(multiworld, player, "zelda_behaviour")
     if zelda_requirement == 0:
