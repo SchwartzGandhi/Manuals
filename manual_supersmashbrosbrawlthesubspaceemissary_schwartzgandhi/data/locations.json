@@ -78,16 +78,6 @@
     "requires": []
   },
   {
-    "name": "The Jungle - Step 6 Golden Box",
-    "region": "The Jungle",
-    "category": [
-      "Collectable",
-      "Box",
-      "Golden Box"
-    ],
-    "requires": []
-  },
-  {
     "name": "The Jungle - Step 2 Freestanding Trophy",
     "region": "The Jungle",
     "category": [
@@ -104,6 +94,16 @@
       "Collectable",
       "Freestanding",
       "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Jungle - Step 6 Golden Box",
+    "region": "The Jungle",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
     ],
     "requires": []
   },
@@ -245,22 +245,22 @@
     "requires": []
   },
   {
-    "name": "The Battlefield Fortress - Step 7 Golden Box",
-    "region": "The Battlefield Fortress",
-    "category": [
-      "Collectable",
-      "Box",
-      "Golden Box"
-    ],
-    "requires": []
-  },
-  {
     "name": "The Battlefield Fortress - Step 4 Freestanding Trophy",
     "region": "The Battlefield Fortress",
     "category": [
       "Collectable",
       "Freestanding",
       "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Battlefield Fortress - Step 7 Golden Box",
+    "region": "The Battlefield Fortress",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
     ],
     "requires": []
   },
@@ -457,16 +457,6 @@
   },
   {
     "region": "The Path to the Ruins",
-    "name": "The Path to the Ruins - Step 3 Golden Box",
-    "category": [
-      "Collectable",
-      "Box",
-      "Golden Box"
-    ],
-    "requires": []
-  },
-  {
-    "region": "The Path to the Ruins",
     "name": "The Path to the Ruins - Step 2 Freestanding Trophy Left",
     "category": [
       "Collectable",
@@ -502,6 +492,16 @@
       "Collectable",
       "Freestanding",
       "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Path to the Ruins",
+    "name": "The Path to the Ruins - Step 3 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
     ],
     "requires": []
   },
@@ -649,6 +649,16 @@
   },
   {
     "region": "The Wilds II",
+    "name": "The Wilds II - Step 1 Freestanding Trophy",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Wilds II",
     "name": "The Wilds II - Step 2 Golden Box",
     "category": [
       "Collectable",
@@ -664,16 +674,6 @@
       "Collectable",
       "Box",
       "Golden Box"
-    ],
-    "requires": []
-  },
-  {
-    "region": "The Wilds II",
-    "name": "The Wilds II - Step 1 Freestanding Trophy",
-    "category": [
-      "Collectable",
-      "Freestanding",
-      "Trophy"
     ],
     "requires": []
   },
@@ -764,6 +764,16 @@
   },
   {
     "region": "The Research Facility II",
+    "name": "The Research Facility II - Step 4 Freestanding Trophy",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Research Facility II",
     "name": "The Research Facility II - Step 6 Golden Box",
     "category": [
       "Collectable",
@@ -792,16 +802,6 @@
     "requires": []
   },
   {
-    "region": "The Research Facility II",
-    "name": "The Research Facility II - Step 4 Freestanding Trophy",
-    "category": [
-      "Collectable",
-      "Freestanding",
-      "Trophy"
-    ],
-    "requires": []
-  },
-  {
     "name": "The Research Facility II - Ridley",
     "region": "The Research Facility II",
     "category": [
@@ -814,6 +814,16 @@
     "region": "The Research Facility II",
     "category": [
       "Newcomer"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Outside the Ancient Ruins",
+    "name": "Outside the Ancient Ruins - Step 2 Freestanding Trophy",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
     ],
     "requires": []
   },
@@ -834,16 +844,6 @@
       "Collectable",
       "Box",
       "Golden Box"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Outside the Ancient Ruins",
-    "name": "Outside the Ancient Ruins - Step 2 Freestanding Trophy",
-    "category": [
-      "Collectable",
-      "Freestanding",
-      "Trophy"
     ],
     "requires": []
   },
@@ -1151,16 +1151,6 @@
     "requires": []
   },
   {
-    "region": "Subspace I",
-    "name": "Subspace I - Step 3 Golden Box",
-    "category": [
-      "Collectable",
-      "Box",
-      "Golden Box"
-    ],
-    "requires": []
-  },
-  {
     "name": "Subspace I - Step 1 Samus Trophy",
     "region": "Subspace I",
     "category": [
@@ -1187,6 +1177,16 @@
       "Collectable",
       "Freestanding",
       "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Subspace I",
+    "name": "Subspace I - Step 3 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
     ],
     "requires": []
   },
@@ -1352,26 +1352,6 @@
     "requires": []
   },
   {
-    "region": "Subspace II",
-    "name": "Subspace II - Step 1 Golden Box",
-    "category": [
-      "Collectable",
-      "Box",
-      "Golden Box"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Subspace II",
-    "name": "Subspace II - Step 3 Golden Box",
-    "category": [
-      "Collectable",
-      "Box",
-      "Golden Box"
-    ],
-    "requires": []
-  },
-  {
     "name": "Subspace II - Step 1 Peach Trophy",
     "region": "Subspace II",
     "category": [
@@ -1398,6 +1378,16 @@
       "Collectable",
       "Freestanding",
       "Fighter Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Subspace II",
+    "name": "Subspace II - Step 1 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
     ],
     "requires": []
   },
@@ -1452,6 +1442,16 @@
     "requires": []
   },
   {
+    "region": "Subspace II",
+    "name": "Subspace II - Step 3 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
     "name": "Subspace II - Step 3 Snake Trophy",
     "region": "Subspace II",
     "category": [
@@ -1469,7 +1469,7 @@
       "Freestanding",
       "Fighter Trophy"
     ],
-    "requires": "|Wario|"
+    "requires": []
   },
   {
     "name": "Newcomer (Ganondorf)",
@@ -1485,7 +1485,7 @@
     "category": [
       "Newcomer"
     ],
-    "requires": []
+    "requires": "|Wario|"
   },
   {
     "region": "The Great Maze NW",
