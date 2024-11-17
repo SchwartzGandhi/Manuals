@@ -41,6 +41,9 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to remove locations from the world
     locationNamesToRemove = [] # List of location names
 
+    # Okay you just don't get to fight him again in free play for some reason.
+    locationNamesToRemove.append("The Wilds I - Galleom I")
+
     # Add your code here to calculate which locations to remove
     enabled_secret_characters = is_option_enabled(multiworld, player, "secret_character_shuffle")
     enabled_hoarde_shuffle = is_option_enabled(multiworld, player, "hoarde_shuffle")
@@ -71,6 +74,7 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
     for i in range(1, trophies_to_remove):
         itemNamesToRemove.append("Boss Trophy")
 
+    # Remove Progressive Trainers, Pokemon, or both depending on settings
     if get_option_value(multiworld, player, "trainer_behaviour") == 0:
         itemNamesToRemove.append("Squirtle")
         itemNamesToRemove.append("Ivysaur")
@@ -86,14 +90,22 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
         itemNamesToRemove.append("Ivysaur")
         itemNamesToRemove.append("Charizard")
 
-    if get_option_value(multiworld, player, "samus_behaviour") == (0 or 1):
+    # Remove Progressive Samuses, or Zero Suit and Samus depending on settings
+    if get_option_value(multiworld, player, "samus_behaviour") == 0:
+        for i in range(2):
+            itemNamesToRemove.append("Progressive Samus")
+    elif get_option_value(multiworld, player, "samus_behaviour") == 1:
         for i in range(2):
             itemNamesToRemove.append("Progressive Samus")
     elif get_option_value(multiworld, player, "samus_behaviour") == 2:
         itemNamesToRemove.append("Samus")
         itemNamesToRemove.append("Zero Suit Samus")
 
-    if get_option_value(multiworld, player, "zelda_behaviour") == (0 or 1):
+    # Remove Progressive Zeldas, or Zelda/Sheik depending on settings
+    if get_option_value(multiworld, player, "zelda_behaviour") == 0:
+        for i in range(2):
+            itemNamesToRemove.append("Progressive Zelda")
+    if get_option_value(multiworld, player, "zelda_behaviour") == 1:
         for i in range(2):
             itemNamesToRemove.append("Progressive Zelda")
     elif get_option_value(multiworld, player, "zelda_behaviour") == 2:
