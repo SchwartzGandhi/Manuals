@@ -48,10 +48,10 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     enabled_secret_characters = is_option_enabled(multiworld, player, "secret_character_shuffle")
     enabled_hoarde_shuffle = is_option_enabled(multiworld, player, "hoarde_shuffle")
     for location in world.location_table:
-         if "Secret Battle" in location.get("category", []) and not enabled_secret_characters:
-            locationNamesToRemove.append(location["name"])
-         if "Hoarde" in location.get("category", []) and not enabled_hoarde_shuffle:
-            locationNamesToRemove.append(location["name"])
+        if "Secret Battle" in location.get("category", []) and not enabled_secret_characters:
+           locationNamesToRemove.append(location["name"])
+        if "Hoarde" in location.get("category", []) and not enabled_hoarde_shuffle:
+           locationNamesToRemove.append(location["name"])
     
     for region in multiworld.regions:
         if region.player == player:
@@ -66,7 +66,7 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
     # Use this hook to remove items from the item pool
     itemNamesToRemove = [] # List of item names
 
-    # Check for how Boss Trophies need to be removed and add them to the remove queue
+    # Check for how many Boss Trophies need to be removed and add them to the remove queue
     if get_option_value(multiworld, player, "tabuu_requirements") != 2 or 3:
         trophies_to_remove = 8
     else:
