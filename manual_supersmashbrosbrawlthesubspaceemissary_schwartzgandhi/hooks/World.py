@@ -132,6 +132,14 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
     # Some other useful hook options:
 
+def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int):
+    pass
+
+def before_extend_hint_information(world: World, multiworld: MultiWorld, player: int):
+    pass
+
+def after_extend_hint_information(world: World, multiworld: MultiWorld, player: int):
+    pass
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
