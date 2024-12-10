@@ -88,7 +88,7 @@
     "requires": []
   },
   {
-    "name": "The Jungle - Step 4 Freestanding Trophy",
+    "name": "The Jungle - Step 3 Freestanding Trophy",
     "region": "The Jungle",
     "category": [
       "Collectable",
@@ -98,7 +98,7 @@
     "requires": []
   },
   {
-    "name": "The Jungle - Step 6 Golden Box",
+    "name": "The Jungle - Step 4a Golden Box",
     "region": "The Jungle",
     "category": [
       "Collectable",
@@ -126,7 +126,7 @@
     "requires": []
   },
   {
-    "name": "The Plain - Step 2 Golden Box",
+    "name": "The Plain - Step 1a Golden Box",
     "region": "The Plain",
     "category": [
       "Collectable",
@@ -154,7 +154,7 @@
     "requires": []
   },
   {
-    "name": "The Lake - Step 11 Golden Box",
+    "name": "The Lake - Step 5a Golden Box",
     "region": "The Lake",
     "category": [
       "Collectable",
@@ -164,7 +164,7 @@
     "requires": []
   },
   {
-    "name": "The Lake - Step 10 Golden Box",
+    "name": "The Lake - Step 5 Golden Box",
     "region": "The Lake",
     "category": [
       "Collectable",
@@ -209,7 +209,7 @@
     "requires": []
   },
   {
-    "name": "The Ruined Zoo - Step 6 Golden Box",
+    "name": "The Ruined Zoo - Step 5a Golden Box",
     "region": "The Ruined Zoo",
     "category": [
       "Collectable",
@@ -235,27 +235,7 @@
     "requires": []
   },
   {
-    "name": "The Battlefield Fortress - Step 2 Golden Box",
-    "region": "The Battlefield Fortress",
-    "category": [
-      "Collectable",
-      "Box",
-      "Golden Box"
-    ],
-    "requires": []
-  },
-  {
-    "name": "The Battlefield Fortress - Step 4 Freestanding Trophy",
-    "region": "The Battlefield Fortress",
-    "category": [
-      "Collectable",
-      "Freestanding",
-      "Trophy"
-    ],
-    "requires": []
-  },
-  {
-    "name": "The Battlefield Fortress - Step 7 Golden Box",
+    "name": "The Battlefield Fortress - Step 1a Golden Box",
     "region": "The Battlefield Fortress",
     "category": [
       "Collectable",
@@ -270,6 +250,26 @@
     "category": [
       "Battle",
       "Hoarde"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Battlefield Fortress - Step 4 Freestanding Trophy",
+    "region": "The Battlefield Fortress",
+    "category": [
+      "Collectable",
+      "Freestanding",
+      "Trophy"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Battlefield Fortress - Step 5a Golden Box",
+    "region": "The Battlefield Fortress",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
     ],
     "requires": []
   },
@@ -299,7 +299,7 @@
   },
   {
     "region": "The Forest",
-    "name": "The Forest - Step 2 Golden Box",
+    "name": "The Forest - Step 1a Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -309,7 +309,7 @@
   },
   {
     "region": "The Forest",
-    "name": "The Forest - Step 3 Golden Box",
+    "name": "The Forest - Step 2 Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -417,7 +417,7 @@
   },
   {
     "region": "The Lake Shore",
-    "name": "The Lake Shore - Step 6 Golden Box",
+    "name": "The Lake Shore - Step 5a Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -427,7 +427,7 @@
   },
   {
     "region": "The Lake Shore",
-    "name": "The Lake Shore - Step 7 Golden Box",
+    "name": "The Lake Shore - Step 5b Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -437,7 +437,7 @@
   },
   {
     "region": "The Lake Shore",
-    "name": "The Lake Shore - Step 8 Golden Box",
+    "name": "The Lake Shore - Step 5c Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -447,7 +447,7 @@
   },
   {
     "region": "The Path to the Ruins",
-    "name": "The Path to the Ruins - Step 2 Freestanding Trophy Left",
+    "name": "The Path to the Ruins - Step 1a Freestanding Trophy Left",
     "category": [
       "Collectable",
       "Freestanding",
@@ -457,7 +457,7 @@
   },
   {
     "region": "The Path to the Ruins",
-    "name": "The Path to the Ruins - Step 2 Freestanding Trophy Top",
+    "name": "The Path to the Ruins - Step 1a Freestanding Trophy Top",
     "category": [
       "Collectable",
       "Freestanding",
@@ -467,7 +467,7 @@
   },
   {
     "region": "The Path to the Ruins",
-    "name": "The Path to the Ruins - Step 2 Freestanding Trophy Upright",
+    "name": "The Path to the Ruins - Step 1a Freestanding Trophy Upright",
     "category": [
       "Collectable",
       "Freestanding",
@@ -477,7 +477,7 @@
   },
   {
     "region": "The Path to the Ruins",
-    "name": "The Path to the Ruins - Step 2 Freestanding Trophy Far Right",
+    "name": "The Path to the Ruins - Step 1a Freestanding Trophy Far Right",
     "category": [
       "Collectable",
       "Freestanding",
@@ -497,7 +497,7 @@
   },
   {
     "region": "The Path to the Ruins",
-    "name": "The Path to the Ruins - Step 3 Golden Box",
+    "name": "The Path to the Ruins - Step 2 Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -516,6 +516,16 @@
   },
   {
     "region": "The Cave",
+    "name": "The Cave - Step 1a Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Cave",
     "name": "The Cave - Step 1 Golden Box",
     "category": [
       "Collectable",
@@ -526,17 +536,7 @@
   },
   {
     "region": "The Cave",
-    "name": "The Cave - Step 2 Golden Box",
-    "category": [
-      "Collectable",
-      "Box",
-      "Golden Box"
-    ],
-    "requires": []
-  },
-  {
-    "region": "The Cave",
-    "name": "The Cave - Step 5 Golden Box",
+    "name": "The Cave - Step 3a Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -566,7 +566,7 @@
   },
   {
     "region": "The Ruins",
-    "name": "The Ruins - Step 5 Golden Box",
+    "name": "The Ruins - Step 3a Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -603,7 +603,7 @@
   },
   {
     "region": "The Wilds I",
-    "name": "The Wilds I - Step 2 Golden Box",
+    "name": "The Wilds I - Step 1a Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -623,7 +623,7 @@
   },
   {
     "region": "The Wilds I",
-    "name": "The Wilds I - Step 4 Golden Box",
+    "name": "The Wilds I - Step 2a Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -659,7 +659,7 @@
   },
   {
     "region": "The Wilds II",
-    "name": "The Wilds II - Step 2 Golden Box",
+    "name": "The Wilds II - Step 1a Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -669,7 +669,7 @@
   },
   {
     "region": "The Wilds II",
-    "name": "The Wilds II - Step 3 Golden Box",
+    "name": "The Wilds II - Step 2 Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -689,27 +689,7 @@
   },
   {
     "region": "The Swamp",
-    "name": "The Swamp - Step 3 Golden Box",
-    "category": [
-      "Collectable",
-      "Box",
-      "Golden Box"
-    ],
-    "requires": []
-  },
-  {
-    "region": "The Swamp",
-    "name": "The Swamp - Step 6 Golden Box",
-    "category": [
-      "Collectable",
-      "Box",
-      "Golden Box"
-    ],
-    "requires": []
-  },
-  {
-    "region": "The Swamp",
-    "name": "The Swamp - Step 7 Golden Box",
+    "name": "The Swamp - Step 2a Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -723,6 +703,26 @@
     "category": [
       "Battle",
       "Miniboss"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Swamp",
+    "name": "The Swamp - Step 5 Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Swamp",
+    "name": "The Swamp - Step 5a Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
     ],
     "requires": []
   },
@@ -754,11 +754,20 @@
   },
   {
     "region": "The Research Facility II",
-    "name": "The Research Facility II - Step 2 Golden Box",
+    "name": "The Research Facility II - Step 1a Golden Box",
     "category": [
       "Collectable",
       "Box",
       "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Research Facility II - Dark Samus Duo Brawl",
+    "region": "The Research Facility II",
+    "category": [
+      "Battle",
+      "Miniboss"
     ],
     "requires": []
   },
@@ -774,30 +783,21 @@
   },
   {
     "region": "The Research Facility II",
+    "name": "The Research Facility II - Step 5a Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Research Facility II",
     "name": "The Research Facility II - Step 6 Golden Box",
     "category": [
       "Collectable",
       "Box",
       "Golden Box"
-    ],
-    "requires": []
-  },
-  {
-    "region": "The Research Facility II",
-    "name": "The Research Facility II - Step 12 Golden Box",
-    "category": [
-      "Collectable",
-      "Box",
-      "Golden Box"
-    ],
-    "requires": []
-  },
-  {
-    "name": "The Research Facility II - Dark Samus Duo Brawl",
-    "region": "The Research Facility II",
-    "category": [
-      "Battle",
-      "Miniboss"
     ],
     "requires": []
   },
@@ -819,7 +819,7 @@
   },
   {
     "region": "Outside the Ancient Ruins",
-    "name": "Outside the Ancient Ruins - Step 2 Freestanding Trophy",
+    "name": "Outside the Ancient Ruins - Step 1a Freestanding Trophy",
     "category": [
       "Collectable",
       "Freestanding",
@@ -829,7 +829,7 @@
   },
   {
     "region": "Outside the Ancient Ruins",
-    "name": "Outside the Ancient Ruins - Step 3 Golden Box Left",
+    "name": "Outside the Ancient Ruins - Step 1b Golden Box Left",
     "category": [
       "Collectable",
       "Box",
@@ -839,7 +839,7 @@
   },
   {
     "region": "Outside the Ancient Ruins",
-    "name": "Outside the Ancient Ruins - Step 3 Golden Box Right",
+    "name": "Outside the Ancient Ruins - Step 1b Golden Box Right",
     "category": [
       "Collectable",
       "Box",
@@ -849,7 +849,7 @@
   },
   {
     "region": "Outside the Ancient Ruins",
-    "name": "Outside the Ancient Ruins - Step 3 Freestanding Trophy",
+    "name": "Outside the Ancient Ruins - Step 1b Freestanding Trophy",
     "category": [
       "Collectable",
       "Freestanding",
@@ -902,7 +902,7 @@
   },
   {
     "region": "The Glacial Peak",
-    "name": "The Glacial Peak - Step 4 Golden Box",
+    "name": "The Glacial Peak - Step 3a Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -912,7 +912,7 @@
   },
   {
     "region": "The Glacial Peak",
-    "name": "The Glacial Peak - Step 5 Golden Box",
+    "name": "The Glacial Peak - Step 3b Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -956,6 +956,26 @@
   },
   {
     "region": "Battleship Halberd Interior",
+    "name": "Battleship Halberd Interior - Step 2a Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Battleship Halberd Interior",
+    "name": "Battleship Halberd Interior - Step 3a Golden Box",
+    "category": [
+      "Collectable",
+      "Box",
+      "Golden Box"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Battleship Halberd Interior",
     "name": "Battleship Halberd Interior - Step 3 Golden Box",
     "category": [
       "Collectable",
@@ -966,27 +986,7 @@
   },
   {
     "region": "Battleship Halberd Interior",
-    "name": "Battleship Halberd Interior - Step 5 Golden Box",
-    "category": [
-      "Collectable",
-      "Box",
-      "Golden Box"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Battleship Halberd Interior",
-    "name": "Battleship Halberd Interior - Step 4 Golden Box",
-    "category": [
-      "Collectable",
-      "Box",
-      "Golden Box"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Battleship Halberd Interior",
-    "name": "Battleship Halberd Interior - Step 8 Golden Box",
+    "name": "Battleship Halberd Interior - Step 6 Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -1057,7 +1057,7 @@
   },
   {
     "region": "The Subspace Bomb Factory I",
-    "name": "The Subspace Bomb Factory I - Step 2 Golden Box",
+    "name": "The Subspace Bomb Factory I - Step 1a Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -1067,7 +1067,7 @@
   },
   {
     "region": "The Subspace Bomb Factory I",
-    "name": "The Subspace Bomb Factory I - Step 4 Golden Box",
+    "name": "The Subspace Bomb Factory I - Step 1c Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -1077,7 +1077,7 @@
   },
   {
     "region": "The Subspace Bomb Factory II",
-    "name": "The Subspace Bomb Factory II - Step 2 Golden Box",
+    "name": "The Subspace Bomb Factory II - Step 1a Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -1087,7 +1087,7 @@
   },
   {
     "region": "The Subspace Bomb Factory II",
-    "name": "The Subspace Bomb Factory II - Step 4 Golden Box",
+    "name": "The Subspace Bomb Factory II - Step 2a Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -1097,7 +1097,7 @@
   },
   {
     "region": "The Subspace Bomb Factory II",
-    "name": "The Subspace Bomb Factory II - Step 5 Golden Box",
+    "name": "The Subspace Bomb Factory II - Step 3 Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -1116,7 +1116,7 @@
   },
   {
     "region": "The Subspace Bomb Factory II",
-    "name": "The Subspace Bomb Factory II - Step 8 Freestanding Trophy",
+    "name": "The Subspace Bomb Factory II - Step 6 Freestanding Trophy",
     "category": [
       "Collectable",
       "Freestanding",
@@ -1161,7 +1161,7 @@
     "requires": []
   },
   {
-    "name": "Subspace I - Step 3 Pit Trophy",
+    "name": "Subspace I - Step 2a Pit Trophy",
     "region": "Subspace I",
     "category": [
       "Collectable",
@@ -1171,7 +1171,7 @@
     "requires": []
   },
   {
-    "name": "Subspace I - Step 3 Falco Trophy",
+    "name": "Subspace I - Step 2a Falco Trophy",
     "region": "Subspace I",
     "category": [
       "Collectable",
@@ -1182,7 +1182,7 @@
   },
   {
     "region": "Subspace I",
-    "name": "Subspace I - Step 3 Golden Box",
+    "name": "Subspace I - Step 2a Golden Box",
     "category": [
       "Collectable",
       "Box",
@@ -1201,7 +1201,7 @@
     "requires": []
   },
   {
-    "name": "Subspace I - Step 4 Ike Trophy",
+    "name": "Subspace I - Step 3 Ike Trophy",
     "region": "Subspace I",
     "category": [
       "Collectable",
@@ -1211,7 +1211,7 @@
     "requires": []
   },
   {
-    "name": "Subspace I - Step 5 Pokémon Trainer Trophy",
+    "name": "Subspace I - Step 3a Pokémon Trainer Trophy",
     "region": "Subspace I",
     "category": [
       "Collectable",
@@ -1221,7 +1221,7 @@
     "requires": []
   },
   {
-    "name": "Subspace I - Step 5 Pikachu Trophy",
+    "name": "Subspace I - Step 3a Pikachu Trophy",
     "region": "Subspace I",
     "category": [
       "Collectable",
@@ -1231,7 +1231,7 @@
     "requires": []
   },
   {
-    "name": "Subspace I - Step 4 Donkey Kong Trophy",
+    "name": "Subspace I - Step 3 Donkey Kong Trophy",
     "region": "Subspace I",
     "category": [
       "Collectable",
@@ -1241,7 +1241,7 @@
     "requires": []
   },
   {
-    "name": "Subspace I - Step 4 Marth Trophy",
+    "name": "Subspace I - Step 3 Marth Trophy",
     "region": "Subspace I",
     "category": [
       "Collectable",
@@ -1251,7 +1251,7 @@
     "requires": []
   },
   {
-    "name": "Subspace I - Step 6 Olimar Trophy",
+    "name": "Subspace I - Step 3b Olimar Trophy",
     "region": "Subspace I",
     "category": [
       "Collectable",
@@ -1261,7 +1261,7 @@
     "requires": []
   },
   {
-    "name": "Subspace I - Step 6 Fox Trophy",
+    "name": "Subspace I - Step 3b Fox Trophy",
     "region": "Subspace I",
     "category": [
       "Collectable",
@@ -1271,7 +1271,7 @@
     "requires": []
   },
   {
-    "name": "Subspace I - Step 7 Mr. Game & Watch Trophy",
+    "name": "Subspace I - Step 4 Mr. Game & Watch Trophy",
     "region": "Subspace I",
     "category": [
       "Collectable",
@@ -1281,7 +1281,7 @@
     "requires": []
   },
   {
-    "name": "Subspace I - Step 8 Diddy Kong Trophy",
+    "name": "Subspace I - Step 5 Diddy Kong Trophy",
     "region": "Subspace I",
     "category": [
       "Collectable",
@@ -1291,7 +1291,7 @@
     "requires": []
   },
   {
-    "name": "Subspace I - Step 8 Captain Falcon Trophy",
+    "name": "Subspace I - Step 5 Captain Falcon Trophy",
     "region": "Subspace I",
     "category": [
       "Collectable",
@@ -1301,7 +1301,7 @@
     "requires": []
   },
   {
-    "name": "Subspace I - Step 9 Mario Trophy",
+    "name": "Subspace I - Step 6 Mario Trophy",
     "region": "Subspace I",
     "category": [
       "Collectable",
@@ -1489,7 +1489,7 @@
   },
   {
     "region": "The Great Maze NW",
-    "name": "The Great Maze - Golden Box (Skyworld Cache)",
+    "name": "The Great Maze - Step 5b Golden Box (Skyworld Cache)",
     "category": [
       "Collectable",
       "Box",
@@ -1499,7 +1499,7 @@
   },
   {
     "region": "The Great Maze NW",
-    "name": "The Great Maze - Golden Box (Sea of CLouds)",
+    "name": "The Great Maze - Step 5c Golden Box (Sea of Clouds)",
     "category": [
       "Collectable",
       "Box",
@@ -1509,7 +1509,7 @@
   },
   {
     "region": "The Great Maze NW",
-    "name": "The Great Maze - Golden Box (The Forest Dark World))",
+    "name": "The Great Maze - Step 7a Golden Box (The Forest Dark World))",
     "category": [
       "Collectable",
       "Box",
@@ -1519,7 +1519,7 @@
   },
   {
     "region": "The Great Maze NW",
-    "name": "The Great Maze - Golden Box (The Plain)",
+    "name": "The Great Maze - Step 7c Golden Box (The Plain)",
     "category": [
       "Collectable",
       "Box",
@@ -1529,7 +1529,7 @@
   },
   {
     "region": "The Great Maze NE",
-    "name": "The Great Maze - Golden Box (Battleship Halberd Interior)",
+    "name": "The Great Maze - Step 9a Golden Box (The Ruined Zoo)",
     "category": [
       "Collectable",
       "Box",
@@ -1539,7 +1539,7 @@
   },
   {
     "region": "The Great Maze NE",
-    "name": "The Great Maze - Golden Box (The Ruined Zoo)",
+    "name": "The Great Maze - Step 13a Golden Box (Battleship Halberd Interior)",
     "category": [
       "Collectable",
       "Box",
@@ -1549,7 +1549,7 @@
   },
   {
     "region": "The Great Maze NE",
-    "name": "The Great Maze - Golden Box (The Research Facility Bottom Right)",
+    "name": "The Great Maze - Step 21e Golden Box Lower (The Research Facility Mite Production)",
     "category": [
       "Collectable",
       "Box",
@@ -1559,7 +1559,7 @@
   },
   {
     "region": "The Great Maze NE",
-    "name": "The Great Maze - Golden Box (The Research Facility Top Right)",
+    "name": "The Great Maze - Step 21e Golden Box Upper (The Research Facility Mite Production)",
     "category": [
       "Collectable",
       "Box",
@@ -1569,7 +1569,7 @@
   },
   {
     "region": "The Great Maze SE",
-    "name": "The Great Maze - Golden Box (The Path to the Ruins Fire Cave)",
+    "name": "The Great Maze - Step 23b Golden Box (The Path to the Ruins Fire Cave)",
     "category": [
       "Collectable",
       "Box",
@@ -1579,7 +1579,7 @@
   },
   {
     "region": "The Great Maze SE",
-    "name": "The Great Maze - Golden Box (The Swamp Sping Platform)",
+    "name": "The Great Maze - Step 25a Golden Box (The Swamp Sping Platform)",
     "category": [
       "Collectable",
       "Box",
@@ -1589,7 +1589,7 @@
   },
   {
     "region": "The Great Maze SE",
-    "name": "The Great Maze - Golden Box (The Swamp Cache)",
+    "name": "The Great Maze - Step 25b Golden Box (The Swamp Cache)",
     "category": [
       "Collectable",
       "Box",
@@ -1599,7 +1599,7 @@
   },
   {
     "region": "The Great Maze SE",
-    "name": "The Great Maze - Freestanding Trophy (The Swamp Cache)",
+    "name": "The Great Maze - Step 25b Freestanding Trophy (The Swamp Cache)",
     "category": [
       "Collectable",
       "Freestanding",
@@ -1609,21 +1609,21 @@
   },
   {
     "region": "The Great Maze SW",
-    "name": "The Great Maze - Golden Box (The Path to the Ruins Windstorm)",
+    "name": "The Great Maze - Step 31c Freestanding Trophy (The Ruins)",
     "category": [
       "Collectable",
-      "Box",
-      "Golden Box"
+      "Freestanding",
+      "Trophy"
     ],
     "requires": []
   },
   {
     "region": "The Great Maze SW",
-    "name": "The Great Maze - Freestanding Trophy (The Ruins)",
+    "name": "The Great Maze - Step 33b Golden Box (The Path to the Ruins Windstorm)",
     "category": [
       "Collectable",
-      "Freestanding",
-      "Trophy"
+      "Box",
+      "Golden Box"
     ],
     "requires": []
   },
@@ -1642,6 +1642,6 @@
     "category": [
       "Newcomer"
     ],
-    "requires": []
+    "requires": "{Check_Tabuu_Requirements()}"
   }
 ]
