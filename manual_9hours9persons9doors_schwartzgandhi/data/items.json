@@ -1,0 +1,1052 @@
+[
+  {
+    "count": 1,
+    "name": "note from bulletin board",
+    "category": [
+      "3rd Class Cabin Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "picture frame",
+    "category": [
+      "3rd Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "small key (blue)",
+    "category": [
+      "3rd Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "small key (red)",
+    "category": [
+      "3rd Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "screwdriver (3rd Class Cabin)",
+    "category": [
+      "3rd Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "stack of blue key cards",
+    "category": [
+      "3rd Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "memo from bed",
+    "category": [
+      "3rd Class Cabin Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "stack of red key cards",
+    "category": [
+      "3rd Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "About digital roots",
+    "category": [
+      "3rd Class Cabin Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "picture of an old cruise liner",
+    "category": [
+      "3rd Class Cabin Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "matches",
+    "category": [
+      "2nd Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Map of the ship",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "dresser key",
+    "category": [
+      "2nd Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "plate",
+    "category": [
+      "2nd Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "candle",
+    "category": [
+      "2nd Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "lit candle",
+    "category": [
+      "2nd Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "curtain",
+    "category": [
+      "2nd Class Cabin Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "candlestick key",
+    "category": [
+      "2nd Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mars key",
+    "category": [
+      "2nd Class Cabin Items",
+      "Planet Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "rusty knife",
+    "category": [
+      "Kitchen Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "bottle of oil",
+    "category": [
+      "Kitchen Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "whetstone",
+    "category": [
+      "Kitchen Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "knife",
+    "category": [
+      "Kitchen Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "chunk of pork",
+    "category": [
+      "Kitchen Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "frozen chicken",
+    "category": [
+      "Kitchen Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "dry ice",
+    "category": [
+      "Kitchen Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "water bottle",
+    "category": [
+      "Kitchen Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "dry ice (crumbled)",
+    "category": [
+      "Kitchen Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "sturdy rope",
+    "category": [
+      "Kitchen Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "water bottle with dry ice in it",
+    "category": [
+      "Kitchen Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "water bottle bomb",
+    "category": [
+      "Kitchen Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "pork note",
+    "category": [
+      "Kitchen Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Saturn key card",
+    "category": [
+      "Kitchen Items",
+      "Planet Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "scalpel",
+    "category": [
+      "Operating Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kocher forceps",
+    "category": [
+      "Operating Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "fake organ",
+    "category": [
+      "Operating Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "organ key",
+    "category": [
+      "Operating Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "blue liquid",
+    "category": [
+      "Operating Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "red liquid",
+    "category": [
+      "Operating Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "fake right arm",
+    "category": [
+      "Operating Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "fake heart",
+    "category": [
+      "Operating Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "fake right leg",
+    "category": [
+      "Operating Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "fake left leg",
+    "category": [
+      "Operating Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "fake stomach",
+    "category": [
+      "Operating Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "fake chest",
+    "category": [
+      "Operating Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The medical record",
+    "category": [
+      "Operating Room Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jupiter key",
+    "category": [
+      "Operating Room Items",
+      "Planet Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "stack of nautical charts",
+    "category": [
+      "Chart Room Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "pocket watch",
+    "category": [
+      "Chart Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The ship's log",
+    "category": [
+      "Chart Room Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "handle",
+    "category": [
+      "Chart Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "music box",
+    "category": [
+      "Captain's Quarters Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The numeral system chart",
+    "category": [
+      "Captain's Quarters Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "small screwdrivers",
+    "category": [
+      "Captain's Quarters Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "cylinder",
+    "category": [
+      "Captain's Quarters Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "paper",
+    "category": [
+      "Captain's Quarters Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "ink",
+    "category": [
+      "Captain's Quarters Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "dirty cylinder",
+    "category": [
+      "Captain's Quarters Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Morse code chart",
+    "category": [
+      "Captain's Quarters Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "unique key",
+    "category": [
+      "Captain's Quarters Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Information about ALICE",
+    "category": [
+      "Captain's Quarters Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": "3",
+    "name": "powerful lightbulb",
+    "category": [
+      "Library Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "pop-up book",
+    "category": [
+      "Library Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Study nautical table",
+    "category": [
+      "Study Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "cross emblem",
+    "category": [
+      "Study Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "helm emblem",
+    "category": [
+      "Study Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "code emblem",
+    "category": [
+      "Study Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "coffin emblem",
+    "category": [
+      "Study Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Morse code chart 1",
+    "category": [
+      "Study Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Morse code chart 2",
+    "category": [
+      "Study Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Morse code chart 3",
+    "category": [
+      "Study Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "9 panel cross puzzle",
+    "category": [
+      "Study Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "key card 0",
+    "category": [
+      "Study Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "A picture taken 9 years ago",
+    "category": [
+      "Study Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "vase",
+    "category": [
+      "1st Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "score plate (C)",
+    "category": [
+      "1st Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "score plate (G)",
+    "category": [
+      "1st Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "vase filled with water",
+    "category": [
+      "1st Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "score plate (D)",
+    "category": [
+      "1st Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "score plate",
+    "category": [
+      "1st Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "score plate (A)",
+    "category": [
+      "1st Class Cabin Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "card 4",
+    "category": [
+      "Casino Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "card 5",
+    "category": [
+      "Casino Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "card 6",
+    "category": [
+      "Casino Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "card 7",
+    "category": [
+      "Casino Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "card 8",
+    "category": [
+      "Casino Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "coin bag",
+    "category": [
+      "Casino Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Venus key",
+    "category": [
+      "Planet Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "card 2",
+    "category": [
+      "Casino Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "card 3",
+    "category": [
+      "Casino Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Neptune key",
+    "category": [
+      "Planet Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "ethanol",
+    "category": [
+      "Laboratory Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3-pronged power cable",
+    "category": [
+      "Laboratory Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2-prong plug",
+    "category": [
+      "Laboratory Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2-pronged power cable",
+    "category": [
+      "Laboratory Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Clover's note",
+    "category": [
+      "Laboratory Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "activation key",
+    "category": [
+      "Laboratory Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Earth key",
+    "category": [
+      "Laboratory Items",
+      "Planet keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "wheel",
+    "category": [
+      "Engine Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "control panel for something",
+    "category": [
+      "Engine Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "box filled with the coal",
+    "category": [
+      "Engine Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "gold disc",
+    "category": [
+      "Engine Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "silver disc",
+    "category": [
+      "Engine Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "bronze disc",
+    "category": [
+      "Engine Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": "9",
+    "name": "card with a head-shot",
+    "category": [
+      "Cargo Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "9 pins",
+    "category": [
+      "Cargo Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pushmaster 5000 Instructions",
+    "category": [
+      "Cargo Room Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "rusty key",
+    "category": [
+      "Cargo Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "broom",
+    "category": [
+      "Shower Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "bucket",
+    "category": [
+      "Shower Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "toilet paper",
+    "category": [
+      "Shower Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "luminol",
+    "category": [
+      "Shower Room Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "screwdriver (Shower Room)",
+    "category": [
+      "Shower Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "red key card",
+    "category": [
+      "Shower Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "thermometer",
+    "category": [
+      "Shower Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mercury key card",
+    "category": [
+      "Shower Room Items",
+      "Planet Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "bucket filled with hot water",
+    "category": [
+      "Shower Room Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "a piece of paper",
+    "category": [
+      "Shower Room Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "broom wrapped in toilet paper",
+    "category": [
+      "Shower Room Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "screwdriver handle",
+    "category": [
+      "Confinement Rooms Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "screwdriver shaft",
+    "category": [
+      "Confinement Rooms Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "screwdriver (Confinement Rooms)",
+    "category": [
+      "Confinement Rooms Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "desk drawer",
+    "category": [
+      "Confinement Rooms Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "center room drawer",
+    "category": [
+      "Confinement Rooms Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "knob",
+    "category": [
+      "Confinement Rooms Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "drawer without handle",
+    "category": [
+      "Confinement Rooms Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "towel",
+    "category": [
+      "Confinement Rooms Items"
+    ],
+    "useful": true
+  },
+  {
+    "count": "4",
+    "name": "tile",
+    "category": [
+      "Confinement Rooms Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "wrench",
+    "category": [
+      "Torture Room Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sun key",
+    "category": [
+      "Torture Room Items",
+      "Planet Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bookmark",
+    "category": [],
+    "progression": true
+  }
+]

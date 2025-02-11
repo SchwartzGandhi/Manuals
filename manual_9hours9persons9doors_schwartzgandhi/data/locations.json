@@ -1,0 +1,1341 @@
+[
+  {
+    "region": "3rd Class Cabin",
+    "name": "Bulletin Board",
+    "category": [
+      "3rd Class Cabin"
+    ],
+    "requires": []
+  },
+  {
+    "region": "3rd Class Cabin",
+    "name": "Shelf Above Sink",
+    "category": [
+      "3rd Class Cabin"
+    ],
+    "requires": []
+  },
+  {
+    "region": "3rd Class Cabin",
+    "name": "Underneath Pillow",
+    "category": [
+      "3rd Class Cabin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Stove",
+    "region": "3rd Class Cabin",
+    "category": [
+      "3rd Class Cabin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Kettle",
+    "region": "3rd Class Cabin",
+    "category": [
+      "3rd Class Cabin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Blue Suitcase",
+    "region": "3rd Class Cabin",
+    "category": [
+      "3rd Class Cabin"
+    ],
+    "requires": "|small key (blue)|"
+  },
+  {
+    "name": "Red Suitcase",
+    "region": "3rd Class Cabin",
+    "category": [
+      "3rd Class Cabin"
+    ],
+    "requires": "|small key (red)|"
+  },
+  {
+    "name": "Mirror",
+    "region": "3rd Class Cabin",
+    "category": [
+      "3rd Class Cabin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Digital Root Book",
+    "region": "3rd Class Cabin",
+    "category": [
+      "3rd Class Cabin"
+    ],
+    "requires": "|small key (blue)|"
+  },
+  {
+    "name": "Picture Frame",
+    "region": "3rd Class Cabin",
+    "category": [
+      "3rd Class Cabin"
+    ],
+    "requires": "|picture frame| AND |screwdriver (3rd Class Cabin)|"
+  },
+  {
+    "name": "Escape 3rd Class Cabin",
+    "region": "3rd Class Cabin",
+    "category": [
+      "3rd Class Cabin"
+    ],
+    "requires": "|stack of red key cards| AND |stack of blue key cards|"
+  },
+  {
+    "region": "2nd Class Cabin",
+    "name": "Right Room Table",
+    "category": [
+      "2nd Class Cabin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Right Room Shower",
+    "region": "2nd Class Cabin",
+    "category": [
+      "2nd Class Cabin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Right Room Picture Frame",
+    "region": "2nd Class Cabin",
+    "category": [
+      "2nd Class Cabin"
+    ],
+    "requires": []
+  },
+  {
+    "region": "2nd Class Cabin",
+    "name": "Right Room Dresser Drawer",
+    "category": [
+      "2nd Class Cabin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lit Candle",
+    "region": "2nd Class Cabin",
+    "category": [
+      "2nd Class Cabin"
+    ],
+    "requires": "|candle| AND |matches|"
+  },
+  {
+    "name": "Left Room Table",
+    "region": "2nd Class Cabin",
+    "category": [
+      "2nd Class Cabin"
+    ],
+    "requires": []
+  },
+  {
+    "region": "2nd Class Cabin",
+    "name": "Left Room Dresser Drawer",
+    "category": [
+      "2nd Class Cabin"
+    ],
+    "requires": "|lit candle| AND |dresser key|"
+  },
+  {
+    "name": "Left Room Dresser Desk",
+    "region": "2nd Class Cabin",
+    "category": [
+      "2nd Class Cabin"
+    ],
+    "requires": "|lit candle|"
+  },
+  {
+    "name": "Left Room Bed",
+    "region": "2nd Class Cabin",
+    "category": [
+      "2nd Class Cabin"
+    ],
+    "requires": "|lit candle|"
+  },
+  {
+    "name": "Display Case",
+    "region": "2nd Class Cabin",
+    "category": [
+      "2nd Class Cabin"
+    ],
+    "requires": "|candlestick key|"
+  },
+  {
+    "name": "Left Room Picture Frame",
+    "region": "2nd Class Cabin",
+    "category": [
+      "2nd Class Cabin"
+    ],
+    "requires": "|plate:3|"
+  },
+  {
+    "region": "2nd Class Cabin",
+    "name": "Escape 2nd Class Cabin",
+    "category": [
+      "2nd Class Cabin"
+    ],
+    "requires": "|Mars key|"
+  },
+  {
+    "name": "Behind the Cheese",
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pantry Box",
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Next to Sink",
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sharpen Knife",
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|rusty knife| AND |whetstone|"
+  },
+  {
+    "name": "Freezer Rack",
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|bottle of oil|"
+  },
+  {
+    "name": "Fridge Top Shelf",
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|bottle of oil|"
+  },
+  {
+    "name": "Fridge Bottom Shelf",
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|bottle of oil|"
+  },
+  {
+    "name": "Freezer Bunker Top Item",
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|bottle of oil|"
+  },
+  {
+    "name": "Freezer Bunker Bottom Item",
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|bottle of oil|"
+  },
+  {
+    "name": "Crush Dry Ice",
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|dry ice| AND |frozen chicken|"
+  },
+  {
+    "name": "Pour Ice in Bottle",
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|water bottle| AND |dry ice (crumbled)|"
+  },
+  {
+    "name": "Assemble Bomb",
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|water bottle with dry ice in it| AND |sturdy rope|"
+  },
+  {
+    "name": "Slice Pork",
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|chunk of pork| AND |knife|"
+  },
+  {
+    "name": "Iron Oven",
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|pork note|"
+  },
+  {
+    "name": "Escape Kitchen",
+    "region": "Kitchen",
+    "category": [
+      "Kitchen"
+    ],
+    "requires": "|Saturn key card|"
+  },
+  {
+    "region": "Operating Room",
+    "name": "Left Table",
+    "category": [
+      "Operating Room"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Operating Room",
+    "name": "Back Table",
+    "category": [
+      "Operating Room"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Operating Room",
+    "name": "Mannequin",
+    "category": [
+      "Operating Room"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Operating Room",
+    "name": "Sterilizing Counter",
+    "category": [
+      "Operating Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chemical Room Left Bottle",
+    "region": "Operating Room",
+    "category": [
+      "Operating Room"
+    ],
+    "requires": "|organ key|"
+  },
+  {
+    "name": "Chemical Room Right Bottle",
+    "region": "Operating Room",
+    "category": [
+      "Operating Room"
+    ],
+    "requires": "|organ key|"
+  },
+  {
+    "name": "Chemical Room Box Item 1",
+    "region": "Operating Room",
+    "category": [
+      "Operating Room"
+    ],
+    "requires": "|organ key|"
+  },
+  {
+    "name": "Chemical Room Box Item 2",
+    "region": "Operating Room",
+    "category": [
+      "Operating Room"
+    ],
+    "requires": "|organ key|"
+  },
+  {
+    "name": "Pleparation Room Dresser",
+    "region": "Operating Room",
+    "category": [
+      "Operating Room"
+    ],
+    "requires": "|organ key|"
+  },
+  {
+    "name": "Pleparation Room Red Locker",
+    "region": "Operating Room",
+    "category": [
+      "Operating Room"
+    ],
+    "requires": "|organ key| AND |red liquid|"
+  },
+  {
+    "name": "Pleparation Room Blue Locker",
+    "region": "Operating Room",
+    "category": [
+      "Operating Room"
+    ],
+    "requires": "|organ key| AND |blue liquid|"
+  },
+  {
+    "name": "Pleparation Room Purple Locker",
+    "region": "Operating Room",
+    "category": [
+      "Operating Room"
+    ],
+    "requires": "|organ key| AND |red liquid| AND |blue liquid|"
+  },
+  {
+    "name": "John",
+    "region": "Operating Room",
+    "category": [
+      "Operating Room"
+    ],
+    "requires": "|fake right arm| AND |fake left leg| AND |fake right leg| AND |fake chest| AND |fake stomach| AND |fake heart|"
+  },
+  {
+    "region": "Operating Room",
+    "name": "Escape Operating Room",
+    "category": [
+      "Operating Room"
+    ],
+    "requires": "|Jupiter key|"
+  },
+  {
+    "region": "Chart Room",
+    "name": "Center Drawer",
+    "category": [
+      "Chart Room"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Chart Room",
+    "name": "Map Drawer",
+    "category": [
+      "Chart Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shelf",
+    "region": "Chart Room",
+    "category": [
+      "Chart Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Helm",
+    "region": "Chart Room",
+    "category": [
+      "Chart Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arrival Board",
+    "region": "Chart Room",
+    "category": [
+      "Chart Room"
+    ],
+    "requires": "|handle|"
+  },
+  {
+    "name": "Escape Chart Room",
+    "region": "Chart Room",
+    "category": [
+      "Chart Room"
+    ],
+    "requires": "|pocket watch| AND |handle|"
+  },
+  {
+    "region": "Captain's Quarters",
+    "name": "Bedside Table",
+    "category": [
+      "Captain's Quarters"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Captain's Quarters",
+    "name": "TV Desk Drawer",
+    "category": [
+      "Captain's Quarters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Telegraph Desk Left Drawer",
+    "region": "Captain's Quarters",
+    "category": [
+      "Captain's Quarters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Telegraph Desk Right Drawer",
+    "region": "Captain's Quarters",
+    "category": [
+      "Captain's Quarters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Telegraph Desk Counter",
+    "region": "Captain's Quarters",
+    "category": [
+      "Captain's Quarters"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Captain's Quarters",
+    "name": "Telegraph Desk Locked Drawer Item 1",
+    "category": [
+      "Captain's Quarters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Slice Organ",
+    "region": "Operating Room",
+    "category": [
+      "Operating Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Disassemble Music Box",
+    "region": "Captain's Quarters",
+    "category": [
+      "Captain's Quarters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ink Cylinder",
+    "region": "Captain's Quarters",
+    "category": [
+      "Captain's Quarters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Print Code",
+    "region": "Captain's Quarters",
+    "category": [
+      "Captain's Quarters"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Telegraph Desk Locked Drawer Item 2",
+    "region": "Captain's Quarters",
+    "category": [
+      "Captain's Quarters"
+    ],
+    "requires": "|Morse code chart|"
+  },
+  {
+    "region": "Captain's Quarters",
+    "name": "Escape Captain's Quarters",
+    "category": [
+      "Captain's Quarters"
+    ],
+    "requires": "|unique key|"
+  },
+  {
+    "name": "Southeast Shelf",
+    "region": "Library",
+    "category": [
+      "Library"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Southwest Shelf",
+    "region": "Library",
+    "category": [
+      "Library"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Northwest Upper Shelf",
+    "region": "Library",
+    "category": [
+      "Library"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shelf Under Stairs",
+    "region": "Library",
+    "category": [
+      "Library"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cabinet",
+    "region": "Library",
+    "category": [
+      "Library"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Escape Library",
+    "region": "Library",
+    "category": [
+      "Library"
+    ],
+    "requires": "|pop-up book:3| AND |powerful lightbulb:3|"
+  },
+  {
+    "region": "Study",
+    "name": "Sketch Table",
+    "category": [
+      "Study"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ALL",
+    "region": "Study",
+    "category": [
+      "Study"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ICE",
+    "region": "Study",
+    "category": [
+      "Study"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Compass Puzzle",
+    "region": "Study",
+    "category": [
+      "Study"
+    ],
+    "requires": []
+  },
+  {
+    "name": "1 Drawer",
+    "region": "Study",
+    "category": [
+      "Study"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Locker",
+    "region": "Study",
+    "category": [
+      "Study"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Coffin Item 1",
+    "region": "Study",
+    "category": [
+      "Study"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Coffin Item 2",
+    "region": "Study",
+    "category": [
+      "Study"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Monitor Drawer Item 1",
+    "region": "Study",
+    "category": [
+      "Study"
+    ],
+    "requires": "|helm emblem| AND |cross emblem| AND |code emblem| AND |coffin emblem|"
+  },
+  {
+    "name": "Monitor Drawer Item 2",
+    "region": "Study",
+    "category": [
+      "Study"
+    ],
+    "requires": "|helm emblem| AND |cross emblem| AND |code emblem| AND |coffin emblem|"
+  },
+  {
+    "name": "Escape Study",
+    "region": "Study",
+    "category": [
+      "Study"
+    ],
+    "requires": "|key card 0|"
+  },
+  {
+    "region": "1st Class Cabin",
+    "name": "Pillow",
+    "category": [
+      "1st Class Cabin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Music Stand",
+    "region": "1st Class Cabin",
+    "category": [
+      "1st Class Cabin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bedroom Closet",
+    "region": "1st Class Cabin",
+    "category": [
+      "1st Class Cabin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fireplace Room Corner Table",
+    "region": "1st Class Cabin",
+    "category": [
+      "1st Class Cabin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fireplace Room Closet",
+    "region": "1st Class Cabin",
+    "category": [
+      "1st Class Cabin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fill Vase",
+    "region": "1st Class Cabin",
+    "category": [
+      "1st Class Cabin"
+    ],
+    "requires": "|vase|"
+  },
+  {
+    "name": "Bathtub",
+    "region": "1st Class Cabin",
+    "category": [
+      "1st Class Cabin"
+    ],
+    "requires": "|vase filled with water|"
+  },
+  {
+    "name": "Inside Fireplace",
+    "region": "1st Class Cabin",
+    "category": [
+      "1st Class Cabin"
+    ],
+    "requires": "|vase filled with water|"
+  },
+  {
+    "region": "1st Class Cabin",
+    "name": "Esacpe 1st Class Cabin",
+    "category": [
+      "1st Class Cabin"
+    ],
+    "requires": "|score plate| AND |score plate (C)| AND |score plate (D)| AND |score plate (G)| AND |score plate (A)|"
+  },
+  {
+    "region": "Casino",
+    "name": "Poker Table",
+    "category": [
+      "Casino"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fireplace Mantle",
+    "region": "Casino",
+    "category": [
+      "Casino"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fireplace Pit",
+    "region": "Casino",
+    "category": [
+      "Casino"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bar Front Counter",
+    "region": "Casino",
+    "category": [
+      "Casino"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bar Back Counter",
+    "region": "Casino",
+    "category": [
+      "Casino"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Baccarat Table",
+    "region": "Casino",
+    "category": [
+      "Casino"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Baccarat Table Reward",
+    "region": "Casino",
+    "category": [
+      "Casino"
+    ],
+    "requires": "|card 2| AND |card 3| AND |card 4|"
+  },
+  {
+    "name": "777 Reward 1",
+    "region": "Casino",
+    "category": [
+      "Casino"
+    ],
+    "requires": "|coin bag|"
+  },
+  {
+    "name": "777 Reward 2",
+    "region": "Casino",
+    "category": [
+      "Casino"
+    ],
+    "requires": "|coin bag|"
+  },
+  {
+    "region": "Casino",
+    "name": "Escape Casino",
+    "category": [
+      "Casino"
+    ],
+    "requires": "|card 8| AND |card 5| AND |card 6| AND |card 7|"
+  },
+  {
+    "region": "Laboratory",
+    "name": "Left Locker",
+    "category": [
+      "Laboratory"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Right Locker Item 1",
+    "region": "Laboratory",
+    "category": [
+      "Laboratory"
+    ],
+    "requires": "|2-pronged power cable|"
+  },
+  {
+    "name": "Equipment Stand",
+    "region": "Laboratory",
+    "category": [
+      "Laboratory"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Operating Monitor",
+    "region": "Laboratory",
+    "category": [
+      "Laboratory"
+    ],
+    "requires": "|3-pronged power cable|"
+  },
+  {
+    "name": "Clover's Note",
+    "region": "Laboratory",
+    "category": [
+      "Laboratory"
+    ],
+    "requires": "|ethanol|"
+  },
+  {
+    "name": "Right Locker Item 2",
+    "region": "Laboratory",
+    "category": [
+      "Laboratory"
+    ],
+    "requires": "|2-pronged power cable|"
+  },
+  {
+    "name": "Escape Laboratory",
+    "region": "Laboratory",
+    "category": [
+      "Laboratory"
+    ],
+    "requires": "|activation key|"
+  },
+  {
+    "region": "Engine Room",
+    "name": "B Winch",
+    "category": [
+      "Engine Room"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Engine Room",
+    "name": "C Winch",
+    "category": [
+      "Engine Room"
+    ],
+    "requires": "|wheel|"
+  },
+  {
+    "name": "Conveyor Belt",
+    "region": "Engine Room",
+    "category": [
+      "Engine Room"
+    ],
+    "requires": "|control panel for something|"
+  },
+  {
+    "name": "Gold Gear",
+    "region": "Engine Room",
+    "category": [
+      "Engine Room"
+    ],
+    "requires": "|box filled with the coal|"
+  },
+  {
+    "name": "Bronze Gear",
+    "region": "Engine Room",
+    "category": [
+      "Engine Room"
+    ],
+    "requires": "|box filled with the coal|"
+  },
+  {
+    "name": "Silver Gear",
+    "region": "Engine Room",
+    "category": [
+      "Engine Room"
+    ],
+    "requires": "|box filled with the coal|"
+  },
+  {
+    "name": "Escape Engine Room",
+    "region": "Engine Room",
+    "category": [
+      "Engine Room"
+    ],
+    "requires": "|bronze disc| AND |silver disc| AND |gold disc|"
+  },
+  {
+    "region": "Cargo Room",
+    "name": "Satchel on Furthest Crate",
+    "category": [
+      "Cargo Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Satchel on Closest Crate",
+    "region": "Cargo Room",
+    "category": [
+      "Cargo Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Satchel on Floor by Barrels",
+    "region": "Cargo Room",
+    "category": [
+      "Cargo Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Satchel on Crate by Barrels",
+    "region": "Cargo Room",
+    "category": [
+      "Cargo Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Box on Crate",
+    "region": "Cargo Room",
+    "category": [
+      "Cargo Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Satchel by Numbered Cases",
+    "region": "Cargo Room",
+    "category": [
+      "Cargo Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crate by Door Item 1",
+    "region": "Cargo Room",
+    "category": [
+      "Cargo Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crate by Door Item 2",
+    "region": "Cargo Room",
+    "category": [
+      "Cargo Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Next to Numbered Cases",
+    "region": "Cargo Room",
+    "category": [
+      "Cargo Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Inside Numbered Cases",
+    "region": "Cargo Room",
+    "category": [
+      "Cargo Room"
+    ],
+    "requires": "|card with a head-shot:9|"
+  },
+  {
+    "region": "Cargo Room",
+    "name": "Pushmaster Manual",
+    "category": [
+      "Cargo Room"
+    ],
+    "requires": "|9 pins|"
+  },
+  {
+    "name": "Coffin",
+    "region": "Cargo Room",
+    "category": [
+      "Cargo Room"
+    ],
+    "requires": "|9 pins|"
+  },
+  {
+    "region": "Shower Room",
+    "name": "1st Stall Item 1",
+    "category": [
+      "Shower Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "1st Stall Item 2",
+    "region": "Shower Room",
+    "category": [
+      "Shower Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "2nd Stall Tank",
+    "region": "Shower Room",
+    "category": [
+      "Shower Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "3rd Stall Tank",
+    "region": "Shower Room",
+    "category": [
+      "Shower Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Supply Shelf Left",
+    "region": "Shower Room",
+    "category": [
+      "Shower Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Supply Shelf Right",
+    "region": "Shower Room",
+    "category": [
+      "Shower Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fill Bucket",
+    "region": "Shower Room",
+    "category": [
+      "Shower Room"
+    ],
+    "requires": "|bucket|"
+  },
+  {
+    "name": "Wrap Broom",
+    "region": "Shower Room",
+    "category": [
+      "Shower Room"
+    ],
+    "requires": "|toilet paper| AND |broom|"
+  },
+  {
+    "name": "Heat Thermometer",
+    "region": "Shower Room",
+    "category": [
+      "Shower Room"
+    ],
+    "requires": "|thermometer|"
+  },
+  {
+    "name": "Back Wall",
+    "region": "Shower Room",
+    "category": [
+      "Shower Room"
+    ],
+    "requires": "|screwdriver (Shower Room)|"
+  },
+  {
+    "name": "Escape Cargo Room",
+    "region": "Cargo Room",
+    "category": [
+      "Cargo Room"
+    ],
+    "requires": "|rusty key|"
+  },
+  {
+    "name": "Escape Shower Room",
+    "region": "Shower Room",
+    "category": [
+      "Shower Room"
+    ],
+    "requires": "|red key card| AND |Mercury key card|"
+  },
+  {
+    "name": "Left Room Toilet Handle",
+    "region": "Confinement Rooms",
+    "category": [
+      "Confinement Rooms"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Left Room Toilet Paper Rod",
+    "region": "Confinement Rooms",
+    "category": [
+      "Confinement Rooms"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Assemble Screwdriver",
+    "region": "Confinement Rooms",
+    "category": [
+      "Confinement Rooms"
+    ],
+    "requires": "|screwdriver handle| AND |screwdriver shaft|"
+  },
+  {
+    "name": "Left Room Sink",
+    "region": "Confinement Rooms",
+    "category": [
+      "Confinement Rooms"
+    ],
+    "requires": "|knob|"
+  },
+  {
+    "name": "Left Room Drawer",
+    "region": "Confinement Rooms",
+    "category": [
+      "Confinement Rooms"
+    ],
+    "requires": "|screwdriver (Confinement Rooms)|"
+  },
+  {
+    "name": "Center Room Bed",
+    "region": "Confinement Rooms",
+    "category": [
+      "Confinement Rooms"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Center Room Drawer",
+    "region": "Confinement Rooms",
+    "category": [
+      "Confinement Rooms"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Center Room Drawer Item",
+    "region": "Confinement Rooms",
+    "category": [
+      "Confinement Rooms"
+    ],
+    "requires": "|desk drawer|"
+  },
+  {
+    "name": "Unscrew Handle Item 1",
+    "region": "Confinement Rooms",
+    "category": [
+      "Confinement Rooms"
+    ],
+    "requires": "|screwdriver (Confinement Rooms)| AND |center room drawer|"
+  },
+  {
+    "name": "Unscrew Handle Item 2",
+    "region": "Confinement Rooms",
+    "category": [
+      "Confinement Rooms"
+    ],
+    "requires": "|screwdriver (Confinement Rooms)| AND |center room drawer|"
+  },
+  {
+    "name": "Right Room Drawer Item 1",
+    "region": "Confinement Rooms",
+    "category": [
+      "Confinement Rooms"
+    ],
+    "requires": "|drawer without handle|"
+  },
+  {
+    "name": "Right Room Drawer Item 2",
+    "region": "Confinement Rooms",
+    "category": [
+      "Confinement Rooms"
+    ],
+    "requires": "|drawer without handle|"
+  },
+  {
+    "name": "Escape Confinement Rooms",
+    "region": "Confinement Rooms",
+    "category": [
+      "Confinement Rooms"
+    ],
+    "requires": "|tile:4|"
+  },
+  {
+    "region": "Torture Room",
+    "name": "Tool Table",
+    "category": [
+      "Torture Room"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pipe",
+    "region": "Torture Room",
+    "category": [
+      "Torture Room"
+    ],
+    "requires": "|wrench|"
+  },
+  {
+    "name": "Escape Torture Room",
+    "region": "Torture Room",
+    "category": [
+      "Torture Room"
+    ],
+    "requires": "|Sun key|"
+  },
+  {
+    "region": "2nd Class Cabin",
+    "name": "Santa's Gift",
+    "category": [
+      "2nd Class Cabin",
+      "Story"
+    ],
+    "requires": []
+  },
+  {
+    "region": "END",
+    "victory": true,
+    "name": "END",
+    "category": [
+      "Story"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BAD END: Ax",
+    "region": "BAD END: Ax",
+    "category": [
+      "Story"
+    ],
+    "requires": []
+  },
+  {
+    "region": "END: Zero Lost",
+    "name": "END: Zero Lost",
+    "category": [
+      "Story"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BAD END: Knife",
+    "region": "BAD END: Knife",
+    "category": [
+      "Story"
+    ],
+    "requires": []
+  },
+  {
+    "name": "END: Submarine",
+    "region": "END: Submarine",
+    "category": [
+      "Story"
+    ],
+    "requires": []
+  },
+  {
+    "name": "END: Coffin",
+    "region": "END: Coffin",
+    "victory": false,
+    "category": [
+      "Story"
+    ],
+    "requires": []
+  }
+]

@@ -1,0 +1,151 @@
+{
+  "3rd Class Cabin": {
+    "starting": false,
+    "connects_to": [
+      "2nd Class Cabin",
+      "1st Class Cabin"
+    ],
+    "requires": []
+  },
+  "2nd Class Cabin": {
+    "connects_to": [
+      "Kitchen"
+    ],
+    "requires": []
+  },
+  "Kitchen": {
+    "connects_to": [
+      "Large Hospital Room"
+    ],
+    "requires": []
+  },
+  "1st Class Cabin": {
+    "connects_to": [
+      "Casino"
+    ],
+    "requires": []
+  },
+  "Casino": {
+    "connects_to": [
+      "Large Hospital Room"
+    ],
+    "requires": []
+  },
+  "Large Hospital Room": {
+    "connects_to": [
+      "Shower Room",
+      "Operating Room",
+      "Laboratory"
+    ],
+    "requires": []
+  },
+  "Operating Room": {
+    "connects_to": [
+      "Back in the Big Room"
+    ],
+    "requires": []
+  },
+  "Laboratory": {
+    "connects_to": [
+      "Back in the Big Room"
+    ],
+    "requires": []
+  },
+  "Shower Room": {
+    "connects_to": [
+      "Confinement Rooms"
+    ],
+    "requires": []
+  },
+  "Back in the Big Room": {
+    "connects_to": [
+      "Chart Room",
+      "Engine Room",
+      "Confinement Rooms"
+    ],
+    "requires": []
+  },
+  "Chart Room": {
+    "connects_to": [
+      "Captain's Quarters"
+    ],
+    "requires": []
+  },
+  "Captain's Quarters": {
+    "connects_to": [
+      "END: Coffin",
+      "BAD END: Ax"
+    ],
+    "requires": []
+  },
+  "Engine Room": {
+    "connects_to": [
+      "Cargo Room"
+    ],
+    "requires": []
+  },
+  "Cargo Room": {
+    "connects_to": [
+      "END: Zero Lost",
+      "BAD END: Knife"
+    ],
+    "requires": []
+  },
+  "Confinement Rooms": {
+    "connects_to": [
+      "Torture Room"
+    ],
+    "requires": []
+  },
+  "Torture Room": {
+    "connects_to": [
+      "END: Submarine"
+    ],
+    "requires": []
+  },
+  "END: Submarine": {
+    "connects_to": [],
+    "requires": []
+  },
+  "BAD END: Knife": {
+    "connects_to": [],
+    "requires": []
+  },
+  "END: Zero Lost": {
+    "connects_to": [],
+    "requires": []
+  },
+  "BAD END: Ax": {
+    "connects_to": [],
+    "requires": []
+  },
+  "END: Coffin": {
+    "connects_to": [
+      "Library"
+    ],
+    "requires": []
+  },
+  "Menu": {
+    "starting": true,
+    "connects_to": [
+      "3rd Class Cabin"
+    ],
+    "requires": []
+  },
+  "Library": {
+    "connects_to": [
+      "Study"
+    ],
+    "requires": []
+  },
+  "Study": {
+    "connects_to": [
+      "END"
+    ],
+    "requires": []
+  },
+  "END": {
+    "connects_to": [],
+    "requires": []
+  }
+}
