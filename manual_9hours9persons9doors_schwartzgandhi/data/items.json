@@ -578,6 +578,14 @@
   },
   {
     "count": 1,
+    "name": "Neptune key",
+    "category": [
+      "Planet Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
     "name": "key card 0",
     "category": [
       "Study Items"
@@ -590,7 +598,7 @@
     "category": [
       "Study Items"
     ],
-    "useful": true
+    "filler": true
   },
   {
     "count": 1,
@@ -717,14 +725,6 @@
     "name": "card 3",
     "category": [
       "Casino Items"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Neptune key",
-    "category": [
-      "Planet Keys"
     ],
     "progression": true
   },

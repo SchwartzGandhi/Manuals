@@ -45,7 +45,7 @@
     "category": [
       "3rd Class Cabin"
     ],
-    "requires": "|small key (blue)|"
+    "requires": "|small key (blue)| AND {Suitcases()}"
   },
   {
     "name": "Red Suitcase",
@@ -53,7 +53,7 @@
     "category": [
       "3rd Class Cabin"
     ],
-    "requires": "|small key (red)|"
+    "requires": "|small key (red)| AND {Suitcases()}"
   },
   {
     "name": "Mirror",
@@ -69,7 +69,7 @@
     "category": [
       "3rd Class Cabin"
     ],
-    "requires": "|small key (blue)|"
+    "requires": "|small key (blue)| AND {Suitcases()}"
   },
   {
     "name": "Picture Frame",
@@ -101,7 +101,7 @@
     "category": [
       "2nd Class Cabin"
     ],
-    "requires": []
+    "requires": "{ShowerTile()}"
   },
   {
     "name": "Right Room Picture Frame",
@@ -336,6 +336,14 @@
     "requires": []
   },
   {
+    "name": "Slice Organ",
+    "region": "Operating Room",
+    "category": [
+      "Operating Room"
+    ],
+    "requires": []
+  },
+  {
     "name": "Chemical Room Left Bottle",
     "region": "Operating Room",
     "category": [
@@ -405,7 +413,7 @@
     "category": [
       "Operating Room"
     ],
-    "requires": "|fake right arm| AND |fake left leg| AND |fake right leg| AND |fake chest| AND |fake stomach| AND |fake heart|"
+    "requires": "|fake right arm| AND |fake left leg| AND |fake right leg| AND |fake chest| AND |fake stomach| AND |fake heart| AND {JohnAndLucy()}"
   },
   {
     "region": "Operating Room",
@@ -445,7 +453,7 @@
     "category": [
       "Chart Room"
     ],
-    "requires": []
+    "requires": "{ShipDirection()}"
   },
   {
     "name": "Arrival Board",
@@ -453,7 +461,7 @@
     "category": [
       "Chart Room"
     ],
-    "requires": "|handle|"
+    "requires": "|pocket watch| AND |handle| AND {ShipSpeed()}"
   },
   {
     "name": "Escape Chart Room",
@@ -512,12 +520,12 @@
     "requires": []
   },
   {
-    "name": "Slice Organ",
-    "region": "Operating Room",
+    "region": "Captain's Quarters",
+    "name": "Escape Captain's Quarters",
     "category": [
-      "Operating Room"
+      "Captain's Quarters"
     ],
-    "requires": []
+    "requires": "|unique key| AND {CaptainsCode()}"
   },
   {
     "name": "Disassemble Music Box",
@@ -550,14 +558,6 @@
       "Captain's Quarters"
     ],
     "requires": "|Morse code chart|"
-  },
-  {
-    "region": "Captain's Quarters",
-    "name": "Escape Captain's Quarters",
-    "category": [
-      "Captain's Quarters"
-    ],
-    "requires": "|unique key|"
   },
   {
     "name": "Southeast Shelf",
@@ -621,7 +621,7 @@
     "category": [
       "Study"
     ],
-    "requires": []
+    "requires": "{ALL()}"
   },
   {
     "name": "ICE",
@@ -629,7 +629,7 @@
     "category": [
       "Study"
     ],
-    "requires": []
+    "requires": "{ICE()}"
   },
   {
     "name": "Compass Puzzle",
@@ -637,7 +637,7 @@
     "category": [
       "Study"
     ],
-    "requires": []
+    "requires": "{ReverseShip()}"
   },
   {
     "name": "1 Drawer",
@@ -861,7 +861,7 @@
     "category": [
       "Laboratory"
     ],
-    "requires": "|2-pronged power cable|"
+    "requires": "|2-pronged power cable| AND {Monitor()}"
   },
   {
     "name": "Equipment Stand",
@@ -893,7 +893,7 @@
     "category": [
       "Laboratory"
     ],
-    "requires": "|2-pronged power cable|"
+    "requires": "|2-pronged power cable| AND {Monitor()}"
   },
   {
     "name": "Escape Laboratory",
@@ -1053,7 +1053,15 @@
     "category": [
       "Cargo Room"
     ],
-    "requires": "|9 pins|"
+    "requires": "|9 pins| AND {Pushmaster5000()}"
+  },
+  {
+    "name": "Escape Cargo Room",
+    "region": "Cargo Room",
+    "category": [
+      "Cargo Room"
+    ],
+    "requires": "|rusty key|"
   },
   {
     "region": "Shower Room",
@@ -1104,6 +1112,22 @@
     "requires": []
   },
   {
+    "name": "Back Wall",
+    "region": "Shower Room",
+    "category": [
+      "Shower Room"
+    ],
+    "requires": "|screwdriver (Shower Room)|"
+  },
+  {
+    "name": "Drain",
+    "region": "Shower Room",
+    "category": [
+      "Shower Room"
+    ],
+    "requires": "{ShowerDrain()}"
+  },
+  {
     "name": "Fill Bucket",
     "region": "Shower Room",
     "category": [
@@ -1128,28 +1152,12 @@
     "requires": "|thermometer|"
   },
   {
-    "name": "Back Wall",
-    "region": "Shower Room",
-    "category": [
-      "Shower Room"
-    ],
-    "requires": "|screwdriver (Shower Room)|"
-  },
-  {
-    "name": "Escape Cargo Room",
-    "region": "Cargo Room",
-    "category": [
-      "Cargo Room"
-    ],
-    "requires": "|rusty key|"
-  },
-  {
     "name": "Escape Shower Room",
     "region": "Shower Room",
     "category": [
       "Shower Room"
     ],
-    "requires": "|red key card| AND |Mercury key card|"
+    "requires": "|red key card| AND |Mercury key card| AND {ShowerCode()}"
   },
   {
     "name": "Left Room Toilet Handle",
@@ -1181,7 +1189,7 @@
     "category": [
       "Confinement Rooms"
     ],
-    "requires": "|knob|"
+    "requires": "|knob| AND {SpringRiver()}"
   },
   {
     "name": "Left Room Drawer",

@@ -1,6 +1,6 @@
 from typing import Optional
 from worlds.AutoWorld import World
-from ..Helpers import clamp, get_items_with_value
+from ..Helpers import clamp, get_items_with_value, is_option_enabled
 from BaseClasses import MultiWorld, CollectionState
 
 import re
@@ -27,3 +27,87 @@ def anyClassLevel(world: World, multiworld: MultiWorld, state: CollectionState, 
 def requiresMelee(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     """Returns a requires string that checks if the player has unlocked the tank."""
     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
+
+def Suitcases(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    if is_option_enabled(multiworld, player, 'MFT'):
+        return "|memo from bed| AND |picture of an old cruise liner| AND |note from bulletin board|"
+    else: 
+        return ""
+    
+def ShowerTile(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    if is_option_enabled(multiworld, player, 'MFT'):
+        return "|curtain|"
+    else: 
+        return ""
+
+def JohnAndLucy(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    if is_option_enabled(multiworld, player, 'MFT'):
+        return "|The medical record|"
+    else: 
+        return ""
+
+def ShipDirection(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    if is_option_enabled(multiworld, player, 'MFT'):
+        return "|stack of nautical maps|"
+    else: 
+        return ""
+
+def ShipSpeed(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    if is_option_enabled(multiworld, player, 'MFT'):
+        return "|The ship's log|"
+    else: 
+        return ""
+    
+def CaptainsCode(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    if is_option_enabled(multiworld, player, 'MFT'):
+        return "|The numeral system chart|"
+    else: 
+        return ""
+
+def ALL(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    if is_option_enabled(multiworld, player, 'MFT'):
+        return "|9 panel cross puzzle|"
+    else: 
+        return ""
+
+def ICE(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    if is_option_enabled(multiworld, player, 'MFT'):
+        return "|Morse code chart 1| AND |Morse code chart 2| AND |Morse code chart 3|"
+    else: 
+        return ""
+
+def ReverseShip(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    if is_option_enabled(multiworld, player, 'MFT'):
+        return "|Study nautical table|"
+    else: 
+        return ""
+
+def Monitor(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    if is_option_enabled(multiworld, player, 'MFT'):
+        return "|Clover's note|"
+    else: 
+        return ""
+    
+def Pushmaster5000(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    if is_option_enabled(multiworld, player, 'MFT'):
+        return "|Pushmaster 5000 Instructions|"
+    else: 
+        return ""
+    
+def ShowerDrain(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    if is_option_enabled(multiworld, player, 'MFT'):
+        return "|luminol|"
+    else: 
+        return ""
+
+def ShowerCode(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    if is_option_enabled(multiworld, player, 'MFT'):
+        return "|a piece of paper| AND |bocket filled with hot water| AND |broom wrapped in toilet paper|"
+    else: 
+        return ""
+
+def SpringRiver(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
+    if is_option_enabled(multiworld, player, 'MFT'):
+        return "|towel|"
+    else: 
+        return ""
