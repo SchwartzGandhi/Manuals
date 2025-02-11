@@ -1,4 +1,11 @@
 {
+  "Menu": {
+    "starting": true,
+    "connects_to": [
+      "3rd Class Cabin"
+    ],
+    "requires": []
+  },
   "3rd Class Cabin": {
     "starting": false,
     "connects_to": [
@@ -122,13 +129,6 @@
   "END: Coffin": {
     "connects_to": [
       "Library"
-    ],
-    "requires": []
-  },
-  "Menu": {
-    "starting": true,
-    "connects_to": [
-      "3rd Class Cabin"
     ],
     "requires": []
   },

@@ -40,7 +40,7 @@ def before_options_defined(options: dict) -> dict:
 def after_options_defined(options: dict) -> dict:
     options.update(
         {
-            'MFT': MorphogeneticFieldTheory,
+            'morphogenetic_field_theory': MorphogeneticFieldTheory,
         }
     )
     return options

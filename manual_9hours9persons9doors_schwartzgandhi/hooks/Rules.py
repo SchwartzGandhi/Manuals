@@ -29,85 +29,85 @@ def requiresMelee(world: World, multiworld: MultiWorld, state: CollectionState, 
     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
 
 def Suitcases(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    if is_option_enabled(multiworld, player, 'MFT'):
+    if is_option_enabled(multiworld, player, 'morphogenetic_field_theory'):
         return "|memo from bed| AND |picture of an old cruise liner| AND |note from bulletin board|"
     else: 
         return ""
     
 def ShowerTile(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    if is_option_enabled(multiworld, player, 'MFT'):
+    if is_option_enabled(multiworld, player, 'morphogenetic_field_theory'):
         return "|curtain|"
     else: 
         return ""
 
 def JohnAndLucy(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    if is_option_enabled(multiworld, player, 'MFT'):
+    if is_option_enabled(multiworld, player, 'morphogenetic_field_theory'):
         return "|The medical record|"
     else: 
         return ""
 
 def ShipDirection(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    if is_option_enabled(multiworld, player, 'MFT'):
+    if is_option_enabled(multiworld, player, 'morphogenetic_field_theory'):
         return "|stack of nautical maps|"
     else: 
         return ""
 
 def ShipSpeed(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    if is_option_enabled(multiworld, player, 'MFT'):
+    if is_option_enabled(multiworld, player, 'morphogenetic_field_theory'):
         return "|The ship's log|"
     else: 
         return ""
     
 def CaptainsCode(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    if is_option_enabled(multiworld, player, 'MFT'):
+    if is_option_enabled(multiworld, player, 'morphogenetic_field_theory'):
         return "|The numeral system chart|"
     else: 
         return ""
 
 def ALL(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    if is_option_enabled(multiworld, player, 'MFT'):
+    if is_option_enabled(multiworld, player, 'morphogenetic_field_theory'):
         return "|9 panel cross puzzle|"
     else: 
         return ""
 
 def ICE(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    if is_option_enabled(multiworld, player, 'MFT'):
+    if is_option_enabled(multiworld, player, 'morphogenetic_field_theory'):
         return "|Morse code chart 1| AND |Morse code chart 2| AND |Morse code chart 3|"
     else: 
         return ""
 
 def ReverseShip(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    if is_option_enabled(multiworld, player, 'MFT'):
+    if is_option_enabled(multiworld, player, 'morphogenetic_field_theory'):
         return "|Study nautical table|"
     else: 
         return ""
 
 def Monitor(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    if is_option_enabled(multiworld, player, 'MFT'):
+    if is_option_enabled(multiworld, player, 'morphogenetic_field_theory'):
         return "|Clover's note|"
     else: 
         return ""
     
 def Pushmaster5000(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    if is_option_enabled(multiworld, player, 'MFT'):
+    if is_option_enabled(multiworld, player, 'morphogenetic_field_theory'):
         return "|Pushmaster 5000 Instructions|"
     else: 
         return ""
     
 def ShowerDrain(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    if is_option_enabled(multiworld, player, 'MFT'):
+    if is_option_enabled(multiworld, player, 'morphogenetic_field_theory'):
         return "|luminol|"
     else: 
         return ""
 
 def ShowerCode(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    if is_option_enabled(multiworld, player, 'MFT'):
+    if is_option_enabled(multiworld, player, 'morphogenetic_field_theory'):
         return "|a piece of paper| AND |bocket filled with hot water| AND |broom wrapped in toilet paper|"
     else: 
         return ""
 
 def SpringRiver(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
-    if is_option_enabled(multiworld, player, 'MFT'):
+    if is_option_enabled(multiworld, player, 'morphogenetic_field_theory'):
         return "|towel|"
     else: 
         return ""
