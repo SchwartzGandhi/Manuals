@@ -1,0 +1,525 @@
+[
+  {
+    "name": "C103 dose experiment (1)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 1"
+    ],
+    "requires": "|Satoko Houjou's detailed test result| AND |Kyousuke Irie's decision|"
+  },
+  {
+    "name": "C103 dose experiment (2)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 1"
+    ],
+    "requires": "|Satoko Houjou's detailed test result| AND |Kyousuke Irie's decision|"
+  },
+  {
+    "name": "H170",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 1"
+    ],
+    "requires": "|The discontinuation of Satako Houjou's dissection plan| AND |Kyousuke Irie's motive to become a doctor|"
+  },
+  {
+    "name": "A red capsule (1)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 1"
+    ],
+    "requires": "|The third year's curse of Oyashiro-sama|"
+  },
+  {
+    "name": "A red capsule (2)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 1"
+    ],
+    "requires": "|The third year's curse of Oyashiro-sama|"
+  },
+  {
+    "name": "Research is going well (1)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 1"
+    ],
+    "requires": "|An L5 stage patient's dissection| AND |Help from the queen carrier|"
+  },
+  {
+    "name": "Research is going well (2)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 1"
+    ],
+    "requires": "|An L5 stage patient's dissection| AND |Help from the queen carrier|"
+  },
+  {
+    "name": "The first sacrifice",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 1"
+    ],
+    "requires": "|A live specimen for research| AND |A tragedy at the dam construction site|"
+  },
+  {
+    "name": "The second sacrifice",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 1"
+    ],
+    "requires": "|The death of the dam construction site manager| AND |The hospitalization of Satako Houjou|"
+  },
+  {
+    "name": "The third sacrifice",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 1"
+    ],
+    "requires": "|Rika's father being marked as an opportunist| AND |Rika's mother's suspicion|"
+  },
+  {
+    "name": "The fourth sacrifice (1)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 1"
+    ],
+    "requires": "|The death of Satako Houjou's aunt|"
+  },
+  {
+    "name": "The fourth sacrifice (2)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 1"
+    ],
+    "requires": "|The death of Satako Houjou's aunt|"
+  },
+  {
+    "name": "Dam construction operation withdrawl",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 2"
+    ],
+    "requires": []
+  },
+  {
+    "name": "At a quarry in Yagouchi",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 2"
+    ],
+    "requires": "|Help from the queen carrier|"
+  },
+  {
+    "name": "Distrust of the mother of a queen (1)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 2"
+    ],
+    "requires": "|Results of the research on C103 and H107| AND |The truth about the Shirakawa park accident|"
+  },
+  {
+    "name": "Distrust of the mother of a queen (2)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 2"
+    ],
+    "requires": "|Results of the research on C103 and H107| AND |The truth about the Shirakawa park accident|"
+  },
+  {
+    "name": "Requesting assistance from a queen (1)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 2"
+    ],
+    "requires": "|Stagnated research| AND |Instructions for the kidnapping operation of the Minister's grandson|"
+  },
+  {
+    "name": "Requesting assistance from a queen (2)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 2"
+    ],
+    "requires": "|Stagnated research| AND |Instructions for the kidnapping operation of the Minister's grandson|"
+  },
+  {
+    "name": "A murder with a dismembered body (1)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 2"
+    ],
+    "requires": "|Repetitive apologies|"
+  },
+  {
+    "name": "A murder with a dismembered body (2)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 2"
+    ],
+    "requires": "|Repetitive apologies|"
+  },
+  {
+    "name": "An accident at the Shirakawa park",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 2"
+    ],
+    "requires": "|Satoshi Houjou's denied visitation of his sister at the clinic| AND |Satoshi Houjou's sense of responsibility as a big brother|"
+  },
+  {
+    "name": "Mysterious death of the Furude couple (1)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 2"
+    ],
+    "requires": "|An execution order for the third year's curse| AND |A declaration of war from Kuraudo Ooishi|"
+  },
+  {
+    "name": "Mysterious death of the Furude couple (2)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 2"
+    ],
+    "requires": "|An execution order for the third year's curse| AND |A declaration of war from Kuraudo Ooishi|"
+  },
+  {
+    "name": "Death of Satoshi's aunt",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 2"
+    ],
+    "requires": "|A bat to beat her to death|"
+  },
+  {
+    "name": "Irie's background",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 3"
+    ],
+    "requires": "|Kyousuke Irie's reminiscence|"
+  },
+  {
+    "name": "Kyousuke Irie (1)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Kyousuke Irie (2)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "A routine inspection",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 3"
+    ],
+    "requires": "|Prior consent for the collection of cerebrospinal fluid|"
+  },
+  {
+    "name": "Disappointment",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 3"
+    ],
+    "requires": "|The death of Koizumi-sensei|"
+  },
+  {
+    "name": "Deja-vu",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 3"
+    ],
+    "requires": "|Completion of the medicine C117|"
+  },
+  {
+    "name": "One, two, three, four",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 3"
+    ],
+    "requires": "|Rika Furude's high fever| AND |Jirou Tomitake's slight fever|"
+  },
+  {
+    "name": "Jirou Tomitake",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 3"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The old guy",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 3"
+    ],
+    "requires": "|The death of the dam construction site manager|"
+  },
+  {
+    "name": "A roll of a one",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 4"
+    ],
+    "requires": "|A bottle of wine for a toast| AND |Jirou Tomitake's promise| AND |The draft of an emergency manual|"
+  },
+  {
+    "name": "A local explanatory meeting (1)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "A local explanatory meeting (2)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Depression of a Shinto priest",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 4"
+    ],
+    "requires": "|Rika and Satoko's shopping trip| AND |Satoko Houjou's detailed test result|"
+  },
+  {
+    "name": "Suffering of a big brother",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 4"
+    ],
+    "requires": "|Rock candy as a treat| AND |Satoko Houjou's detailed test result|"
+  },
+  {
+    "name": "The Houjou siblings (1)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 4"
+    ],
+    "requires": "|A conflict between the Houjou family and the Sonozaki family| AND |The self-introduction of Satoko Houjou|"
+  },
+  {
+    "name": "The Houjou siblings (2)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 4"
+    ],
+    "requires": "|A conflict between the Houjou family and the Sonozaki family| AND |The self-introduction of Satoko Houjou|"
+  },
+  {
+    "name": "Satoshi Houjou",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 4"
+    ],
+    "requires": []
+  },
+  {
+    "name": "A notice of leave of absense",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 4"
+    ],
+    "requires": "|Satoshi Houjou's part-time job| AND |Footsteps following Houjou Satoshi|"
+  },
+  {
+    "name": "Footsteps in the fourth year",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 4"
+    ],
+    "requires": "|Satoshi Houjou's awareness of his sins| AND |The forgiveness of Rena Ryuugu's sins|"
+  },
+  {
+    "name": "Preview of lots for sale",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 5"
+    ],
+    "requires": "|The Ryuugu family's move| AND |The fourth year's curse|"
+  },
+  {
+    "name": "New wind",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 5"
+    ],
+    "requires": "|The Ryuugu family's move| AND |A watermelon from the Sonozaki family|"
+  },
+  {
+    "name": "Formation of a club",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 5"
+    ],
+    "requires": "|Satoshi Houjou's awareness of his sins| AND |The mysterious death of the Furude couple|"
+  },
+  {
+    "name": "Keiichi Maebara",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 5"
+    ],
+    "requires": "|The tea set on the veranda being put away| AND |Ichirou Maebara inspecting a vacant lot|"
+  },
+  {
+    "name": "Rena Ryuugu",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 5"
+    ],
+    "requires": "|A red capsule|"
+  },
+  {
+    "name": "Mion Sonozaki (1)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 5"
+    ],
+    "requires": "|Strawberry milk candy|"
+  },
+  {
+    "name": "Mion Sonozaki (2)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 5"
+    ],
+    "requires": "|Strawberry milk candy|"
+  },
+  {
+    "name": "Satoko Houjou",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 5"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rika Furude (1)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 5"
+    ],
+    "requires": "|A conflict between the Houjou family and the Sonozaki family|"
+  },
+  {
+    "name": "Rika Furude (2)",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 5"
+    ],
+    "requires": "|A conflict between the Houjou family and the Sonozaki family|"
+  },
+  {
+    "name": "June 1983",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 6"
+    ],
+    "requires": "|The revenge of Miyo Takano| AND |Keiichi Maebara changing schools|"
+  },
+  {
+    "name": "An invitiation to an end",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 6"
+    ],
+    "requires": "|A raw sea urchin and vitamin A| AND |A big teddy bear for moral support|"
+  },
+  {
+    "name": "A Fragment of Himatsubushi",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 6"
+    ],
+    "requires": "|Setting up the game board|"
+  },
+  {
+    "name": "A Fragment of Onikakushi",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 6"
+    ],
+    "requires": "|Setting up the game board|"
+  },
+  {
+    "name": "A Fragment of Tsumihoroboshi",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 6"
+    ],
+    "requires": "|Setting up the game board| AND |A Fragment from the Onikakushi chapter|"
+  },
+  {
+    "name": "A Fragment of Watanagashi",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 6"
+    ],
+    "requires": "|Setting up the game board|"
+  },
+  {
+    "name": "A Fragment of Meakashi",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 6"
+    ],
+    "requires": "|Setting up the game board| AND |A Fragment from the Watanagashi chapter|"
+  },
+  {
+    "name": "A Fragment of Tatarigoroshi",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 6"
+    ],
+    "requires": "|Setting up the game board|"
+  },
+  {
+    "name": "A Fragment of Minagoroshi",
+    "region": "Connecting Fragments",
+    "category": [
+      "Page 7"
+    ],
+    "requires": "|Setting up the game board| AND |A Fragment from the Tatarigoroshi chapter|"
+  },
+  {
+    "name": "A Fragment of Matsuribayashi",
+    "region": "Connecting Fragments",
+    "victory": true,
+    "category": [
+      "Page 7"
+    ],
+    "requires": "|Setting up the game board| AND |A Fragment from the Onikakushi chapter| AND |A Fragment from the Watanagashi chapter| AND |A Fragment from the Tatarigoroshi chapter| AND |A Fragment from the Himatsubushi chapter| AND |A Fragment from the Meakashi chapter| AND |A Fragment from the Minagoroshi chapter| AND |The final miracle|"
+  },
+  {
+    "name": "Leftover Fragments",
+    "region": "Connecting Fragments",
+    "victory": false,
+    "category": [
+      "Page 7"
+    ],
+    "requires": "|Setting up the game board| AND |A Fragment from the Onikakushi chapter| AND |A Fragment from the Watanagashi chapter| AND |A Fragment from the Tatarigoroshi chapter| AND |A Fragment from the Himatsubushi chapter| AND |A Fragment from the Meakashi chapter| AND |A Fragment from the Minagoroshi chapter|"
+  },
+  {
+    "name": "Flags from kids' meals",
+    "region": "Connecting Fragments",
+    "victory": false,
+    "category": [
+      "Page 7"
+    ],
+    "requires": "|...She needs to be rescued too|"
+  }
+]
