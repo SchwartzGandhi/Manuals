@@ -91,14 +91,14 @@ class GreatMazeRequirements(Choice):
     Minimum Fighters: having Luigi, Ness, King Dedede, Bowser and Kirby will unlock the Great Maze.
     Percentage of Fighters: having a specified amount of fighters will unlock The Great Maze.
     Minimum Plus Percentage: having Luigi, Ness, King Dedede, Bowser, Kirby, plus an specified amount of fighters will unlock The Great Maze.
-    All Fighters: EVERYONE IS HERE!
+    Shuffle Stage: adds The Great Maze into the item pool, and recieving the item will unlock it.
     """
     display_name = "Great Maze Requirements"
     option_open = 0
     option_minimum_fighters = 1
     option_percentage_of_fighters = 2
     option_minimum_plus_percentage = 3
-    option_all_fighters = 4
+    option_shuffle_stage = 4
     default = 1
 
 class GreatMazeFighterPercentage(Range):

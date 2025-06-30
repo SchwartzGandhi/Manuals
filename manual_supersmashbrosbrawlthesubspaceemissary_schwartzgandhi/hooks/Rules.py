@@ -133,7 +133,7 @@ def Check_Great_Maze_Requirements(world: World, multiworld: MultiWorld, state: C
     elif maze_requirement == 3:
         return f"|Luigi| AND |Ness| AND |King Dedede| AND |Bowser| AND |Kirby| AND |@Fighter: {maze_percentage}%|"
     elif maze_requirement == 4:
-        return "|@Fighter: ALL|"
+        return "|The Great Maze|"
     else:
         return True
 
