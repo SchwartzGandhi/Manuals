@@ -349,5 +349,253 @@
     "name": "CD",
     "category": [],
     "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Midair Stadium",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Skyworld",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sea of Clouds",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Jungle",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Plain",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Lake",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Ruined Zoo",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Battlefield Fortress",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Forest",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Research Facility I",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Lake Shore",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Path to the Ruins",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Cave",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Ruins",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Wilds I",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Ruined Hall",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Wilds II",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Swamp",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Research Facility II",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Outside the Ancient Ruins",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Glacial Peak",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Canyon",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Battleship Halberd Interior",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Battleship Halberd Exterior",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Battleship Halberd Bridge",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Subspace Bomb Factory I",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Subspace Bomb Factory II",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Entrance to Subspace",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Subspace I",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Subspace II",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Great Maze",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
   }
 ]

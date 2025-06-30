@@ -26,6 +26,16 @@ from ..Helpers import is_option_enabled, get_option_value
 # To add an option, use the before_options_defined hook below and something like this:
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
+class WorldStructure(Choice):
+    """Determines how you gain access to a level.
+    Stages: The stages themselves are shuffled into the pool and recieving the item will grant you access to it.
+    Characters: Stages are locked by the characters that open every level and having every charcter will grant you access to it.
+    (ie: recieving Lucas gives you The Ruined Zoo, recieving Snake gives you Battleship Halberd Interior, ect.)"""
+    display_name = "World Structure"
+    option_stages = 0
+    option_characters = 1
+    default = 1
+
 class PokemonTrainerBehaviour(Choice):
     """Determines how Pokémon Trainer is accounted for in logic.
     Solo Trainer: Just Pokémon Trainer is shuffled and will have access to every Pokémon.
@@ -107,7 +117,6 @@ class TabuuRequirements(Choice):
     Percentage of Fighters: have a specified amount of fighters be required to unlock Tabuu.
     Boss Hunt: Defeat a specified amount of bosses in other levels to unlock Tabuu.
     Fighters and Bosses: A combination of the previous two.
-    DISCLAIMER: the last two options currently don't work.
     """
     display_name = "Tabuu Requirements"
     option_open = 0
@@ -144,6 +153,7 @@ def before_options_defined(options: dict) -> dict:
 def after_options_defined(options: dict) -> dict:
     options.update(
         {
+            'world_structure': WorldStructure,
             'trainer_behaviour': PokemonTrainerBehaviour,
             'samus_behaviour': SamusBehaviour,
             'zelda_behaviour': ZeldaBehaviour,
