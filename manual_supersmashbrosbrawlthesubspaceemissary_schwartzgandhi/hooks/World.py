@@ -30,7 +30,39 @@ import math
 ## The fill_slot_data method will be used to send data to the Manual client for later use, like deathlink.
 ########################################################################################
 
-
+_STAGES = [
+    "Midair Stadium",
+    "Skyworld",
+    "Sea of Clouds",
+    "The Jungle",
+    "The Plain",
+    "The Lake",
+    "The Ruined Zoo",
+    "The Battlefield Fortress",
+    "The Forest",
+    "The Research Facility I",
+    "The Lake Shore",
+    "The Path to the Ruins",
+    "The Cave",
+    "The Ruins",
+    "The Wilds I",
+    "The Ruined Hall",
+    "The Wilds II",
+    "The Swamp",
+    "The Research Facility II",
+    "Outside the Ancient Ruins",
+    "The Glacial Peak",
+    "The Canyon",
+    "Battleship Halberd Interior",
+    "Battleship Halberd Exterior",
+    "Battleship Halberd Bridge",
+    "The Subspace Bomb Factory I",
+    "The Subspace Bomb Factory II",
+    "Entrance to Subspace",
+    "Subspace I",
+    "Subspace II",
+    "The Great Maze"
+]
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
@@ -45,6 +77,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     locationNamesToRemove.append("The Wilds I - Galleom I")
 
     # Add your code here to calculate which locations to remove
+    boss_hunt = get_option_value(multiworld, player, "tabuu_requirements")
     enabled_secret_characters = is_option_enabled(multiworld, player, "secret_character_shuffle")
     enabled_hoarde_shuffle = is_option_enabled(multiworld, player, "hoarde_shuffle")
     for location in world.location_table:
@@ -53,6 +86,11 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
         if "Hoarde" in location.get("category", []) and not enabled_hoarde_shuffle:
            locationNamesToRemove.append(location["name"])
     
+    if boss_hunt == (2 or 3):
+        for location in world.location_table:
+            if "Boss" in location.get("category", []):
+                location.update({"place_item": ["Boss Trophy"]})
+
     for region in multiworld.regions:
         if region.player == player:
             for location in list(region.locations):
@@ -66,13 +104,15 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
     # Use this hook to remove items from the item pool
     itemNamesToRemove = [] # List of item names
 
-    # Check for how many Boss Trophies need to be removed and add them to the remove queue
-    if get_option_value(multiworld, player, "tabuu_requirements") != 2 or 3:
-        trophies_to_remove = 8
-    else:
-        trophies_to_remove = 8 - get_option_value(multiworld, player, "tabuu_boss_amount")
-    for i in range(1, trophies_to_remove):
-        itemNamesToRemove.append("Boss Trophy")
+    # Remove the stage access items if the player is playing on Characters.
+    if get_option_value(multiworld, player, "world_structure") == 1:
+        for s in _STAGES:
+            itemNamesToRemove.append(s)
+
+    # Remove the boss trophies if boss hunt isn't on.
+    if get_option_value(multiworld, player, "tabuu_requirements") != (2 or 3):
+        for i in range(8):
+            itemNamesToRemove.append("Boss Trophy")
 
     # Remove Progressive Trainers, Pokemon, or both depending on settings
     if get_option_value(multiworld, player, "trainer_behaviour") == 0:
@@ -178,33 +218,7 @@ def after_create_item(item: ManualItem, world: World, multiworld: MultiWorld, pl
 
 # This method is run towards the end of pre-generation, before the place_item options have been handled and before AP generation occurs
 def before_generate_basic(world: World, multiworld: MultiWorld, player: int) -> list:
-    # Check if Boss Hunt is enabled
-    if get_option_value(multiworld, player, "tabuu_requirements") != (2 or 3):
-        return
-
-    boss_trophies = [
-        item for item in multiworld.itempool
-            if "Boss Trophy" in world.item_name_to_item.values()
-    ]
-    #boss_names = next(
-    #    iter([
-    #        name for name, location in world.location_name_to_location.items()
-    #            if "Boss" in location.get("category", [])
-    #    ])
-    #)
-    boss_locations = [
-        location for location in multiworld.get_locations(player)
-    ]
-    print(boss_trophies)
-    print(boss_locations)
-    for boss in boss_trophies:
-        if len(boss_locations) == 0:
-            break
-        location_to_place_at = world.random.choice(boss_locations)
-        location_to_place_at.place_locked_item(boss)
-        multiworld.itempool.remove(boss)
-        boss_locations.remove(location_to_place_at)
-
+    pass
 
 # This method is run at the very end of pre-generation, once the place_item options have been handled and before AP generation occurs
 def after_generate_basic(world: World, multiworld: MultiWorld, player: int):
