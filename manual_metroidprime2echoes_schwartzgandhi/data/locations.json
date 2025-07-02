@@ -1,0 +1,854 @@
+[
+  {
+    "name": "Main Energy Controller (1-mos)",
+    "category": [
+      "Great Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Main Energy Controller (2-mos)",
+    "category": [
+      "Great Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Temple Sanctuary",
+    "category": [
+      "Great Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Transport A Access",
+    "category": [
+      "Great Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Transport B Access",
+    "category": [
+      "Great Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hive Chamber A",
+    "category": [
+      "Temple Grounds",
+      "Agon Quadrant"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hive Chamber B",
+    "category": [
+      "Temple Grounds",
+      "Agon Quadrant"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Transport to Agon Wastes",
+    "category": [
+      "Temple Grounds",
+      "Agon Quadrant"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Temple Assembly Site",
+    "category": [
+      "Temple Grounds",
+      "Agon Quadrant"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Storage Cavern B",
+    "category": [
+      "Temple Grounds",
+      "Agon Quadrant"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dynamo Chamber",
+    "category": [
+      "Temple Grounds",
+      "Agon Quadrant"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Communications Area",
+    "category": [
+      "Temple Grounds",
+      "Sanc Quadrant"
+    ],
+    "requires": []
+  },
+  {
+    "name": "G.F.M.C. Compound (Crate)",
+    "category": [
+      "Temple Grounds",
+      "Sanc Quadrant"
+    ],
+    "requires": []
+  },
+  {
+    "name": "G.F.M.C. Compound (Ship)",
+    "category": [
+      "Temple Grounds",
+      "Sanc Quadrant"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fortress Transport Access",
+    "category": [
+      "Temple Grounds",
+      "Sanc Quadrant"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Grand Windchamber",
+    "category": [
+      "Temple Grounds",
+      "Sanc Quadrant"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Windchamber Gateway",
+    "category": [
+      "Temple Grounds",
+      "Sanc Quadrant"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hall of Honored Dead",
+    "category": [
+      "Temple Grounds",
+      "Torvus Quadrant"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Plain of Dark Worship",
+    "category": [
+      "Sky Temple Grounds"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Accursed Lake",
+    "category": [
+      "Sky Temple Grounds"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Profane Path",
+    "category": [
+      "Sky Temple Grounds"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Phazon Grounds",
+    "category": [
+      "Sky Temple Grounds"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ing Reliquary",
+    "category": [
+      "Sky Temple Grounds"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shrine",
+    "category": [
+      "Sky Temple Grounds"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mining Plaza",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mining Station Access",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mining Station A",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Portal Access A",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Transport Center",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Agon Temple",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mineshaft",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Agon Energy Controller",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sandcanyon",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mining Station B",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Storage A",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ventilation Area A",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Main Reactor",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Storage D",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sand Processing",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Storage C",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Storage B",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Command Center",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Central Mining Station",
+    "category": [
+      "Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ing Cache 4",
+    "category": [
+      "Dark Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Junction",
+    "category": [
+      "Dark Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Judgement Pit",
+    "category": [
+      "Dark Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dark Agon Temple",
+    "category": [
+      "Dark Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Warrior's Walk",
+    "category": [
+      "Dark Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Battleground (Ing Battle)",
+    "category": [
+      "Dark Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Battleground (Ing Cache)",
+    "category": [
+      "Dark Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Doomed Entry",
+    "category": [
+      "Dark Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dark Oasis",
+    "category": [
+      "Dark Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ing Cache 2",
+    "category": [
+      "Dark Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ing Cache 1",
+    "category": [
+      "Dark Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Feeding Pit",
+    "category": [
+      "Dark Agon Wastes"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Torvus Lagoon",
+    "category": [
+      "Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Portal Chamber",
+    "category": [
+      "Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Path of Roots",
+    "category": [
+      "Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Great Bridge",
+    "category": [
+      "Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Temple Access",
+    "category": [
+      "Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Abandoned Worksite",
+    "category": [
+      "Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Forgotten Bridge",
+    "category": [
+      "Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Torvus Temple",
+    "category": [
+      "Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Torvus Energy Controller",
+    "category": [
+      "Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Underground Tunnel",
+    "category": [
+      "Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Torvus Grove",
+    "category": [
+      "Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Meditation Vista",
+    "category": [
+      "Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Torvus Plaza",
+    "category": [
+      "Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Plaza Access",
+    "category": [
+      "Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hydrodynamo Station",
+    "category": [
+      "Torvus Bog",
+      "Lower Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hydrochamber Storage",
+    "category": [
+      "Torvus Bog",
+      "Lower Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gathering Hall",
+    "category": [
+      "Torvus Bog",
+      "Lower Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Transport Tunnel South",
+    "category": [
+      "Torvus Bog",
+      "Lower Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Transport Tunnel East",
+    "category": [
+      "Torvus Bog",
+      "Lower Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Training Chamber",
+    "category": [
+      "Torvus Bog",
+      "Lower Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Undertemple (Power Bomb Guardian)",
+    "category": [
+      "Dark Torvus Bog",
+      "Lower Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Undertemple (Screw Attack Wall)",
+    "category": [
+      "Dark Torvus Bog",
+      "Lower Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Undertransit One",
+    "category": [
+      "Dark Torvus Bog",
+      "Lower Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sacrificial Chamber",
+    "category": [
+      "Dark Torvus Bog",
+      "Lower Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Undertemple Access",
+    "category": [
+      "Dark Torvus Bog",
+      "Lower Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dungeon",
+    "category": [
+      "Dark Torvus Bog",
+      "Lower Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Poisoned Bog",
+    "category": [
+      "Dark Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cache A",
+    "category": [
+      "Dark Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Putrid Alcove",
+    "category": [
+      "Dark Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Venomous Pond",
+    "category": [
+      "Dark Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dark Torvus Temple",
+    "category": [
+      "Dark Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dark Torvus Arena (Boost Guardian)",
+    "category": [
+      "Dark Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dark Torvus Arena (Half-Pipe)",
+    "category": [
+      "Dark Torvus Bog",
+      "Upper Torvus"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sanctuary Entrance",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Reactor Core",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sanctuary Map Station",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Transit Station",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Main Research",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Central Area Transport West",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Watch Station",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Vault",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Watch Station Access",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Main Gyro Chamber",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Aerie",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Temple Access",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sanctuary Energy Controller",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sentinel's Path",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dynamo Works (Spider Guardian)",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dynamo Works (Tube)",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hall of Combat Mastery",
+    "category": [
+      "Sanctuary Fortress"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hive Entrance",
+    "category": [
+      "Ing Hive"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Culling Chamber",
+    "category": [
+      "Ing Hive"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hazing Cliff",
+    "category": [
+      "Ing Hive"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hive Dynamo Works",
+    "category": [
+      "Ing Hive"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hive Gryo Chamber",
+    "category": [
+      "Ing Hive"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hive Temple",
+    "category": [
+      "Ing Hive"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Aerial Training Site (Screw Attack Wall)",
+    "category": [
+      "Ing Hive"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Aerial Training Site (Force Field)",
+    "category": [
+      "Ing Hive"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sanctum",
+    "victory": true,
+    "category": [
+      "Sky Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crossroads",
+    "category": [
+      "Dark Agon Wastes"
+    ],
+    "requires": []
+  }
+]

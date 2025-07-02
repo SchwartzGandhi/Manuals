@@ -1,0 +1,39 @@
+{
+  "Menu": {
+    "starting": true,
+    "connects_to": [
+      "Main Energy Controller"
+    ],
+    "requires": []
+  },
+  "Main Energy Controller": {
+    "connects_to": [
+      "Temple Sanctuary"
+    ],
+    "requires": []
+  },
+  "Temple Sanctuary": {
+    "connects_to": [
+      "Transport A",
+      "Transport B",
+      "Transport C"
+    ],
+    "requires": []
+  },
+  "Transport A": {
+    "connects_to": [],
+    "requires": "|Violet Translator|"
+  },
+  "Transport B": {
+    "connects_to": [],
+    "requires": "|Emerald Translator|"
+  },
+  "Transport C": {
+    "connects_to": [],
+    "requires": "|Amber Translator| AND |Light Beam|"
+  },
+  "Sacred Path": {
+    "connects_to": [],
+    "requires": []
+  }
+}
