@@ -8,7 +8,13 @@
       "item_categories": [
         "Fighter"
       ],
-      "random": 4
+      "random": 3
+    },
+    {
+      "item_categories": [
+        "Solo Blocker"
+      ],
+      "random": 1
     }
   ]
 }

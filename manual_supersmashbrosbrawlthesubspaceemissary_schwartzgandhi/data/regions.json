@@ -37,123 +37,123 @@
   },
   "Midair Stadium": {
     "connects_to": [],
-    "requires": "(|Mario| OR |Kirby|) OR ({YamlCompare(world_structure < 1)} AND |Midair Stadium|)"
+    "requires": "({Character_Mode('Midair Stadium')} AND (|Mario| OR |Kirby|)) OR {Stage_Mode('Midair Stadium')}"
   },
   "Skyworld": {
     "connects_to": [],
-    "requires": "|Pit| OR ({YamlCompare(world_structure < 1)} AND |Skyworld|)"
+    "requires": "({Character_Mode('Skyworld')} AND |Pit|) OR {Stage_Mode('Skyworld')}"
   },
   "Sea of Clouds": {
     "connects_to": [],
-    "requires": "(|Kirby| AND |@Princess|) OR ({YamlCompare(world_structure < 1)} AND |Sea of CLouds|)"
+    "requires": "({Character_Mode('Sea of Clouds')} AND (|Kirby| AND |@Princess|)) OR {Stage_Mode('Sea of Clouds')}"
   },
   "The Jungle": {
     "connects_to": [],
-    "requires": "(|Donkey Kong| AND |Diddy Kong|) OR ({YamlCompare(world_structure < 1)} AND |The Jungle|)"
+    "requires": "({Character_Mode('The Jungle')} AND (|Donkey Kong| AND |Diddy Kong|)) OR {Stage_Mode('The Jungle')}"
   },
   "The Plain": {
     "connects_to": [],
-    "requires": "(|Pit| AND |Mario|) OR ({YamlCompare(world_structure < 1)} AND |The Plain|)"
+    "requires": "({Character_Mode('The Plain')} AND (|Pit| AND |Mario|)) OR {Stage_Mode('The Plain')}"
   },
   "The Lake": {
     "connects_to": [],
-    "requires": "(|Diddy Kong| and |Fox|) OR ({YamlCompare(world_structure < 1)} AND |The Lake|)"
+    "requires": "({Character_Mode('The Lake')} AND (|Diddy Kong| and |Fox|)) OR {Stage_Mode('The Lake')}"
   },
   "The Ruined Zoo": {
     "connects_to": [],
-    "requires": "|Lucas|) OR ({YamlCompare(world_structure < 1)} AND |The Ruined Zoo|)"
+    "requires": "({Character_Mode('The Ruined Zoo')} AND |Lucas|) OR {Stage_Mode('The Ruined Zoo')}"
   },
   "The Battlefield Fortress": {
     "connects_to": [],
-    "requires": "|Marth| OR ({YamlCompare(world_structure < 1)} AND |The Battlefield Fortress|)"
+    "requires": "({Character_Mode('The Battlefield Fortress')} AND |Marth|) OR {Stage_Mode('The Battlefield Fortress')}"
   },
   "The Forest": {
     "connects_to": [],
-    "requires": "(|Link| AND |Yoshi|) OR ({YamlCompare(world_structure < 1)} AND |The Forest|)"
+    "requires": "({Character_Mode('The Forest')} AND (|Link| AND |Yoshi|)) OR {Stage_Mode('The Forest')}"
   },
   "The Research Facility I": {
     "connects_to": [],
-    "requires": "{Check_Facility_1_Requirements()} OR ({YamlCompare(world_structure < 1)} AND |The Research Facility I|)"
+    "requires": "({Character_Mode('The Research Facility I')} AND {Check_Facility_1_Requirements()}) OR {Stage_Mode('The Research Facility I')}"
   },
   "The Lake Shore": {
     "connects_to": [],
-    "requires": "(|Link| AND |Yoshi|) OR (|Mario| AND |Pit|) OR ({YamlCompare(world_structure < 1)} AND |The Lake Shore|)"
+    "requires": "({Character_Mode('The Lake Shore')} AND (|Link| AND |Yoshi|) OR (|Mario| AND |Pit|)) OR {Stage_Mode('The Lake Shore')}"
   },
   "The Path to the Ruins": {
     "connects_to": [],
-    "requires": "{Check_Ruins_Requirements()} OR ({YamlCompare(world_structure < 1)} AND |The Path to the Ruins|)"
+    "requires": "({Character_Mode(Stage_Mode('The Path to the Ruins')} AND {Check_Ruins_Requirements()}) OR {Stage_Mode('The Path to the Ruins')}"
   },
   "The Cave": {
     "connects_to": [],
-    "requires": "(|Pit| AND |Mario| AND |Kirby| AND |Link| AND |Yoshi|) OR ({YamlCompare(world_structure < 1)} AND |The Cave|)"
+    "requires": "({Character_Mode('The Cave')} AND (|Pit| AND |Mario| AND |Kirby| AND |Link| AND |Yoshi|)) OR {Stage_Mode('The Cave')}"
   },
   "The Ruins": {
     "connects_to": [],
-    "requires": "{Check_Ruins_Requirements()} OR ({YamlCompare(world_structure < 1)} AND |The Ruins|)"
+    "requires": "({Character_Mode('The Ruins')} AND {Check_Ruins_Requirements()}) OR {Stage_Mode('The Ruins')}"
   },
   "The Wilds I": {
     "connects_to": [],
-    "requires": "(|Marth| AND |Meta Knight| AND |Ike|) OR ({YamlCompare(world_structure < 1)} AND |The Wilds I|)"
+    "requires": "({Character_Mode('The Wilds I')} AND (|Marth| AND |Meta Knight| AND |Ike|)) OR {Stage_Mode('The Wilds I')}"
   },
   "The Ruined Hall": {
     "connects_to": [],
-    "requires": "{Check_Ruins_Requirements()} OR ({YamlCompare(world_structure < 1)} AND |The Ruined Hall|)"
+    "requires": "({Character_Mode('The Ruined Hall')} AND {Check_Ruins_Requirements()}) OR {Stage_Mode('The Ruined Hall')}"
   },
   "The Wilds II": {
     "connects_to": [],
-    "requires": "(|Pit| AND |Mario| AND |Kirby| AND |Link| AND |Yoshi|) OR ({YamlCompare(world_structure < 1)} AND |The Wilds II|)"
+    "requires": "({Character_Mode('The Wilds II')} AND (|Pit| AND |Mario| AND |Kirby| AND |Link| AND |Yoshi|)) OR {Stage_Mode('The Wilds II')}"
   },
   "The Swamp": {
     "connects_to": [],
-    "requires": "(|Diddy Kong| AND |Fox|) OR ({YamlCompare(world_structure < 1)} AND |The Swamp|)"
+    "requires": "({Character_Mode('The Swamp')} AND (|Diddy Kong| AND |Fox|)) OR {Stage_Mode('The Swamp')}"
   },
   "The Research Facility II": {
     "connects_to": [],
-    "requires": "{Check_Facility_2_Requirements()} OR ({YamlCompare(world_structure < 1)} AND |The Research Facility II|)"
+    "requires": "({Character_Mode('The Research Facility II')} AND {Check_Facility_2_Requirements()}) OR {Stage_Mode('The Research Facility II')}"
   },
   "Outside the Ancient Ruins": {
     "connects_to": [],
-    "requires": "(|Captain Falcon| AND |Olimar|) OR ({YamlCompare(world_structure < 1)} AND |Outside the Ancient Ruins|)"
+    "requires": "({Character_Mode('Outside the Ancient Ruins')} AND (|Captain Falcon| AND |Olimar|)) OR {Stage_Mode('Outside the Ancient Ruins')}"
   },
   "The Glacial Peak": {
     "connects_to": [],
-    "requires": "(|Meta Knight| AND |Ice Climbers|) OR ({YamlCompare(world_structure < 1)} AND |The Glacial Peak|)"
+    "requires": "({Character_Mode('The Glacial Peak')} AND (|Meta Knight| AND |Ice Climbers|)) OR {Stage_Mode('The Glacial Peak')}"
   },
   "The Canyon": {
     "connects_to": [],
-    "requires": "(|Pit| AND |Mario| AND |Kirby| AND |Link| AND |Yoshi|) OR ({YamlCompare(world_structure < 1)} AND |The Canyon|)"
+    "requires": "({Character_Mode('The Canyon')} AND (|Pit| AND |Mario| AND |Kirby| AND |Link| AND |Yoshi|)) OR {Stage_Mode('The Canyon')}"
   },
   "Battleship Halberd Interior": {
     "connects_to": [],
-    "requires": "|Snake| OR ({YamlCompare(world_structure < 1)} AND |Battleship Halberd Interior|)"
+    "requires": "({Character_Mode('Battleship Halberd Interior')} AND |Snake|) OR {Stage_Mode('Battleship Halberd Interior')}"
   },
   "Battleship Halberd Exterior": {
     "connects_to": [],
-    "requires": "{Check_Halberd_Exterior_Requirements()} OR ({YamlCompare(world_structure < 1)} AND |Battleship Halberd Exterior|)"
+    "requires": "({Character_Mode('Battleship Halberd Exterior')} AND {Check_Halberd_Exterior_Requirements()}) OR {Stage_Mode('Battleship Halberd Exterior')}"
   },
   "Battleship Halberd Bridge": {
     "connects_to": [],
-    "requires": "{Check_Halberd_Bridge_Requirements()} OR ({YamlCompare(world_structure < 1)} AND |Battleship Halberd Bridge|)"
+    "requires": "({Character_Mode('Battleship Halberd Bridge')} AND {Check_Halberd_Bridge_Requirements()}) OR {Stage_Mode('Battleship Halberd Bridge')}"
   },
   "The Subspace Bomb Factory I": {
     "connects_to": [],
-    "requires": "{Check_Bomb_Factory_Requirements()} OR ({YamlCompare(world_structure < 1)} AND |The Subspace Bomb Factory I|)"
+    "requires": "({Character_Mode('The Subspace Bomb Factory I')} AND {Check_Bomb_Factory_Requirements()}) OR {Stage_Mode('The Subspace Bomb Factory I')}"
   },
   "The Subspace Bomb Factory II": {
     "connects_to": [],
-    "requires": "(|Donkey Kong| AND |Diddy Kong| AND |Captain Falcon| AND |Olimar|) OR ({YamlCompare(world_structure < 1)} AND |The Subspace Bomb Factory II|)"
+    "requires": "({Character_Mode('The Subspace Bomb Factory II')} AND (|Donkey Kong| AND |Diddy Kong| AND |Captain Falcon| AND |Olimar|)) OR {Stage_Mode('The Subspace Bomb Factory II')}"
   },
   "Entrance to Subspace": {
     "connects_to": [],
-    "requires": "(|Captain Falcon| AND |Donkey Kong| AND |Diddy Kong| AND |Fox| AND |Falco| AND |Ice Climbers| AND |Marth| AND |Ike| AND |Kirby| AND |Link| AND |Lucario| AND |Lucas| AND |Mario| AND |Meta Knight| AND |Mr. Game & Watch| AND |Olimar| AND |Peach| AND |@Zelda/Sheik| AND |Pikachu| AND |Pit| AND |@Red| AND |R.O.B.| AND |@Samus Aran| AND |Snake| AND |Yoshi|) OR ({YamlCompare(world_structure < 1)} AND |Entrance to Subspace|)"
+    "requires": "({Character_Mode('Entrance to Subspace')} AND (|Captain Falcon| AND |Donkey Kong| AND |Diddy Kong| AND |Fox| AND |Falco| AND |Ice Climbers| AND |Marth| AND |Ike| AND |Kirby| AND |Link| AND |Lucario| AND |Lucas| AND |Mario| AND |Meta Knight| AND |Mr. Game & Watch| AND |Olimar| AND |Peach| AND |@Zelda/Sheik| AND |Pikachu| AND |Pit| AND |@Red| AND |R.O.B.| AND |@Samus Aran| AND |Snake| AND |Yoshi|)) OR {Stage_Mode('Entrance to Subspace')}"
   },
   "Subspace I": {
     "connects_to": [],
-    "requires": "(|King Dedede| AND |Luigi| AND |Ness|) OR ({YamlCompare(world_structure < 1)} AND |Subspace I|)"
+    "requires": "({Character_Mode('Subspace I')} AND (|King Dedede| AND |Luigi| AND |Ness|)) OR {Stage_Mode('Subspace I')}"
   },
   "Subspace II": {
     "connects_to": [],
-    "requires": "|Kirby| OR ({YamlCompare(world_structure < 1)} AND |Subspace II|)"
+    "requires": "({Character_Mode('Subspace II')} AND |Kirby|) OR {Stage_Mode('Subspace II')}"
   },
   "The Great Maze NW": {
     "connects_to": [

@@ -6,6 +6,19 @@ from BaseClasses import MultiWorld, CollectionState
 
 import re
 
+def Character_Mode(world: World, multiworld: MultiWorld, state: CollectionState, player: int, stage: str):
+    world_structure = get_option_value(multiworld, player, "world_structure")
+    if world_structure == 1:
+        return True
+    return False
+
+def Stage_Mode(world: World, multiworld: MultiWorld, state: CollectionState, player: int, stage: str):
+    world_structure = get_option_value(multiworld, player, "world_structure")
+    if world_structure == 0:
+        if state.has(stage, player):
+            return True
+    return False
+
 def Check_Ruins_Requirements(world: World, multiworld: MultiWorld, state: CollectionState, player: int):
     red_requirement = get_option_value(multiworld, player, "trainer_behaviour")
     if red_requirement == 0:
