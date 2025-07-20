@@ -2,79 +2,77 @@
   "Menu": {
     "starting": true,
     "connects_to": [
-      "3rd Class Cabin"
+      "3rd Class Cabin",
+      "2nd Class Cabin",
+      "Kitchen",
+      "1st Class Cabin",
+      "Casino",
+      "Operating Room",
+      "Laboratory",
+      "Shower Room",
+      "Chart Room",
+      "Captain's Quarters",
+      "Engine Room",
+      "Cargo Room",
+      "Library",
+      "Confinement Rooms",
+      "Study"
     ],
     "requires": []
   },
   "3rd Class Cabin": {
     "starting": false,
     "connects_to": [
-      "2nd Class Cabin",
-      "1st Class Cabin"
     ],
     "requires": []
   },
   "2nd Class Cabin": {
     "connects_to": [
-      "Kitchen"
     ],
     "requires": []
   },
   "Kitchen": {
     "connects_to": [
-      "Large Hospital Room"
     ],
     "requires": []
   },
   "1st Class Cabin": {
     "connects_to": [
-      "Casino"
     ],
     "requires": []
   },
   "Casino": {
     "connects_to": [
-      "Large Hospital Room"
     ],
     "requires": []
   },
   "Large Hospital Room": {
     "connects_to": [
-      "Shower Room",
-      "Operating Room",
-      "Laboratory"
     ],
     "requires": []
   },
   "Operating Room": {
     "connects_to": [
-      "Back in the Big Room"
     ],
     "requires": []
   },
   "Laboratory": {
     "connects_to": [
-      "Back in the Big Room"
     ],
     "requires": []
   },
   "Shower Room": {
     "connects_to": [
-      "Confinement Rooms"
     ],
     "requires": []
   },
   "Back in the Big Room": {
     "connects_to": [
-      "Chart Room",
-      "Engine Room",
-      "Confinement Rooms"
     ],
     "requires": []
   },
   "Chart Room": {
     "connects_to": [
-      "Captain's Quarters"
     ],
     "requires": []
   },
@@ -87,7 +85,6 @@
   },
   "Engine Room": {
     "connects_to": [
-      "Cargo Room"
     ],
     "requires": []
   },
@@ -100,7 +97,6 @@
   },
   "Confinement Rooms": {
     "connects_to": [
-      "Torture Room"
     ],
     "requires": []
   },
